@@ -5,4 +5,4 @@ Welcome to Learn365! This repository is about 365 days of Learning . This reposi
 
 | Date | DAY | TOPIC |
 |------|-----|--------|
-|05-01-23| 1 |        |
+|05-01-23| 1 |[Solstice VM Walkthrough](https://github.com/ctflearner/Learn365/blob/main/Days/Day01.md)    |
