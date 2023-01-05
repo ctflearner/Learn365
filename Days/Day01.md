@@ -1,1 +1,6 @@
-first day 
+
+DAY-01
+
+Learning Resource
+
+
