@@ -5,4 +5,4 @@ Welcome to Learn365! This repository is about 365 days of Learning . This reposi
 
 | Date | DAY | TOPIC |
 |------|-----|--------|
-|05-01-23| 1 |[Solstice VM - Walkthrough](https://www.youtube.com/watch?v=NQ6jbKqkJ0s&list=PLJrSyRNlZ2EeqkJa12Tu-Ezun9kXvHufN&index=1)|
+|05-01-23| 1 |        |
