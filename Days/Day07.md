@@ -1,5 +1,7 @@
 
+<h1> DAY-07 </h1>
 
+<h3> Learning Resource </h3>
 
 [Json Web Tokens from cobalt-blog](https://www.cobalt.io/blog/json-web-tokens)
 
