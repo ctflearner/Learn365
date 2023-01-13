@@ -13,3 +13,4 @@ Welcome to Learn365! This repository is about 365 days of Learning . This reposi
 |10-01-23| 6 |[Beginners Guide to Container Security](https://github.com/ctflearner/Learn365/blob/main/Days/Day06.md)|
 |11-01-23| 7 |[Json Web Tokens](https://github.com/ctflearner/Learn365/blob/main/Days/Day07.md)|
 |12-01-23| 8 |[HTB-Seventeen](https://github.com/ctflearner/Learn365/blob/main/Days/Day08.md)|
+|13-01-23| 9 |[All you need to know about JWT Pt. 2](https://github.com/ctflearner/Learn365/blob/main/Days/Day09.md)|
