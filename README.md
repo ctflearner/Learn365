@@ -17,3 +17,4 @@ Welcome to Learn365! This repository is about 365 days of Learning . This reposi
 |14-01-23| 10 |[The Ultimate Guide to SQL Injection](https://github.com/ctflearner/Learn365/blob/main/Days/Day10.md)|
 |15-01-23| 11 |[Infosec Writeup](https://github.com/ctflearner/Learn365/blob/main/Days/Day11.md)|
 |16-01-23| 12 |[huntr-dev-XSS-Writeup](https://github.com/ctflearner/Learn365/blob/main/Days/Day12.md)|
+|17-01-23| 13 |[huntr-dev-File-Upload-Writeup](https://github.com/ctflearner/Learn365/blob/main/Days/Day13.md)|
