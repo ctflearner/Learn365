@@ -21,3 +21,4 @@ Welcome to Learn365! This repository is about 365 days of Learning . This reposi
 |18-01-23| 14 |[huntr-dev-Path-Traversal-Writeup](https://github.com/ctflearner/Learn365/blob/main/Days/Day14.md)|
 |19-01-23| 15 |[Uploading the Webshell using filename of Content-Disposition Header Story!](https://github.com/ctflearner/Learn365/blob/main/Days/Day15.md)|
 |20-01-23| 16 |[XSS in Integration URL in linagora/twake](https://github.com/ctflearner/Learn365/blob/main/Days/Day16.md)|
+|21-01-23| 17 |[Access Control Violation - Sensitive Data Exposure](https://github.com/ctflearner/Learn365/blob/main/Days/Day17.md)|
