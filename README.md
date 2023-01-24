@@ -24,3 +24,4 @@ Welcome to Learn365! This repository is about 365 days of Learning . This reposi
 |21-01-23| 17 |[Access Control Violation - Sensitive Data Exposure](https://github.com/ctflearner/Learn365/blob/main/Days/Day17.md)|
 |22-01-23| 18 |[How A Simple IDOR Led Me To Delete Any Account](https://github.com/ctflearner/Learn365/blob/main/Days/Day18.md)|
 |23-01-23| 19 |[Vulnerable-Code-Snippet:1 & WebSockets Security Explained For Security Enthusiasts](https://github.com/ctflearner/Learn365/blob/main/Days/Day19.md)|
+|24-01-23| 20 |[SecurityExplained S-13: Vulnerable Code Snippet - 2 && Exploiting Open Redirect – Whitelist Bypass Using Salesforce Environment](https://github.com/ctflearner/Learn365/blob/main/Days/Day20.md)|
