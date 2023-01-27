@@ -27,3 +27,4 @@ Welcome to Learn365! This repository is about 365 days of Learning . This reposi
 |24-01-23| 20 |[<ul><li>SecurityExplained S-13: Vulnerable Code Snippet - 2</li> <li>Exploiting Open Redirect – Whitelist Bypass Using Salesforce Environment</li></ul>](https://github.com/ctflearner/Learn365/blob/main/Days/Day20.md)|
 |25-01-23| 21 |[Weak password policy : Old password can be set as new password in ikus060/rdiffweb](https://huntr.dev/bounties/a9021e93-6d18-4ac1-98ce-550c4697a4ed/)|
 |26-01-23| 22 |[Bypassing application logic to set a blank password in ikus060/rdiffweb](https://github.com/ctflearner/Learn365/blob/main/Days/Day22.md)|
+|27-01-23| 23 |[XSS in RSS Description Link in glpi-project/glpi](https://github.com/ctflearner/Learn365/blob/main/Days/Day23.md)|
