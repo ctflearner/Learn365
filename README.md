@@ -29,3 +29,4 @@ Welcome to Learn365! This repository is about 365 days of Learning . This reposi
 |26-01-23| 22 |[Bypassing application logic to set a blank password in ikus060/rdiffweb](https://github.com/ctflearner/Learn365/blob/main/Days/Day22.md)|
 |27-01-23| 23 |[XSS in RSS Description Link in glpi-project/glpi](https://github.com/ctflearner/Learn365/blob/main/Days/Day23.md)|
 |28-01-23| 24 |[<ul><li>Weaponizing self-xss</li><li>Discovered Reflected Cross-Site Scripting Vulnerable into Shaadi.com</li></ul>](https://github.com/ctflearner/Learn365/blob/main/Days/Day24.md)|
+|29-01-23| 25 |[Understanding Server Side Template Injection In Flask Apps](https://github.com/ctflearner/Learn365/blob/main/Days/Day25.md)|
