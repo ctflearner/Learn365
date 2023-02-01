@@ -32,3 +32,4 @@ Welcome to Learn365! This repository is about 365 days of Learning . This reposi
 |29-01-23| 25 |[Understanding Server Side Template Injection In Flask Apps](https://github.com/ctflearner/Learn365/blob/main/Days/Day25.md)|
 |30-01-23| 26 |[Exploring SSTI In Flask/Jinja2](https://github.com/ctflearner/Learn365/blob/main/Days/Day26.md)|
 |31-01-23| 27 |[<ul><li>Find and Exploit NoSQL Injection</li><li>How to Directory Brute Force Properly</li></ul>](https://github.com/ctflearner/Learn365/blob/main/Days/Day27.md)|
+|01-02-23| 28 |[Cross-site Scripting (XSS) - Stored in projectsend/projectsend](https://github.com/ctflearner/Learn365/blob/main/Days/Day28.md)|
