@@ -33,3 +33,4 @@ Welcome to Learn365! This repository is about 365 days of Learning . This reposi
 |30-01-23| 26 |[Exploring SSTI In Flask/Jinja2](https://github.com/ctflearner/Learn365/blob/main/Days/Day26.md)|
 |31-01-23| 27 |[<ul><li>Find and Exploit NoSQL Injection</li><li>How to Directory Brute Force Properly</li></ul>](https://github.com/ctflearner/Learn365/blob/main/Days/Day27.md)|
 |01-02-23| 28 |[Cross-site Scripting (XSS) - Stored in projectsend/projectsend](https://github.com/ctflearner/Learn365/blob/main/Days/Day28.md)|
+|02-02-23| 29 |[<ul><li>parser bypass and make SSRF attack in ionicabizau/parse-url</li><li>SSRF in feeds in glpi-project/glpi</li><li>NahamCon2022EU: Till REcollapse: Fuzzing the Web for Mysterious Bugs by @0xacb</li></ul>](https://github.com/ctflearner/Learn365/blob/main/Days/Day29.md)|
