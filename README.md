@@ -36,4 +36,4 @@ Welcome to Learn365! This repository is about 365 days of Learning . This reposi
 |02-02-23| 29 |[<ul><li>parser bypass and make SSRF attack in ionicabizau/parse-url</li><li>SSRF in feeds in glpi-project/glpi</li><li>NahamCon2022EU: Till REcollapse: Fuzzing the Web for Mysterious Bugs by @0xacb</li></ul>](https://github.com/ctflearner/Learn365/blob/main/Days/Day29.md)|
 |03-02-23| 30 |[Ultimate Guide To SQL Injection – Part I](https://github.com/ctflearner/Learn365/blob/main/Days/Day30.md)|
 |04-02-23| 31 |[What is DOM-based XSS (cross-site scripting)?](https://github.com/ctflearner/Learn365/blob/main/Days/Day31.md)|
-|05-02-23| 32 |[Research | How can Local File Inclusion lead to RCE?](https://github.com/ctflearner/Learn365/blob/main/Days/Day32.md)|
+|05-02-23| 32 |[Research | How can Local File Inclusion lead to RCE](https://github.com/ctflearner/Learn365/blob/main/Days/Day32.md)|
