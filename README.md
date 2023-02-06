@@ -37,3 +37,4 @@ Welcome to Learn365! This repository is about 365 days of Learning . This reposi
 |03-02-23| 30 |[Ultimate Guide To SQL Injection – Part I](https://github.com/ctflearner/Learn365/blob/main/Days/Day30.md)|
 |04-02-23| 31 |[What is DOM-based XSS (cross-site scripting)?](https://github.com/ctflearner/Learn365/blob/main/Days/Day31.md)|
 |05-02-23| 32 |[Research How can Local File Inclusion lead to RCE](https://github.com/ctflearner/Learn365/blob/main/Days/Day32.md)|
+|06-02-23| 33 |[<ul><li>RCE in Wordnet Browser in nltk/nltk</li><li>Bypass All Captchas in the application in thorsten/phpmyfaq</li></ul>](https://github.com/ctflearner/Learn365/blob/main/Days/Day33.md)|
