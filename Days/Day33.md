@@ -2,5 +2,7 @@
 
 ## Learning Resource 
 
-[https://drive.google.com/file/d/140CMe4FLFLBmIUUbI87_06bZ4_zs4d7N/view?usp=sharing](https://huntr.dev/bounties/82b0b629-c56b-4651-af3f-17f749751857/)
+[Bypass All Captchas in the application in thorsten/phpmyfaq](https://huntr.dev/bounties/82b0b629-c56b-4651-af3f-17f749751857/)
+
+[RCE in Wordnet Browser in nltk/nltk](https://huntr.dev/bounties/cd3957f0-2c9c-416d-bc3a-190a5b7ce4a6/)
 
