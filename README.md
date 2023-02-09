@@ -40,3 +40,4 @@ Welcome to Learn365! This repository is about 365 days of Learning . This reposi
 |06-02-23| 33 |[<ul><li>RCE in Wordnet Browser in nltk/nltk</li><li>Bypass All Captchas in the application in thorsten/phpmyfaq</li></ul>](https://github.com/ctflearner/Learn365/blob/main/Days/Day33.md)|
 |07-02-23| 34 |[<ul><li>What Should You Do After Recon?!</li><li>Multiple Ways to Crack WordPress login</li></ul>](https://github.com/ctflearner/Learn365/blob/main/Days/Day34.md)|
 |08-02-23| 35 |[<ul><li>HTTP Query String Injection in unjs/unstorage</li><li>Open Redirect on "returnUrl=" parameter in btcpayserver/btcpayserver</li></ul>](https://github.com/ctflearner/Learn365/blob/main/Days/Day35.md)|
+|09-02-23| 36 |[<ul><li>Subdomain Takeover: Proof Creation for Bug Bounties</li><li>CTF LFI Challenge December</li></ul>](https://github.com/ctflearner/Learn365/blob/main/Days/Day36.md)|
