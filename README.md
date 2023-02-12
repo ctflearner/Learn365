@@ -43,3 +43,4 @@ Welcome to Learn365! This repository is about 365 days of Learning . This reposi
 |09-02-23| 36 |[<ul><li>Subdomain Takeover: Proof Creation for Bug Bounties</li><li>CTF LFI Challenge December</li></ul>](https://github.com/ctflearner/Learn365/blob/main/Days/Day36.md)|
 |10-02-23| 37 |[Hacking Web Cache - Deep Dive in Web Cache Poisoning Attacks](https://github.com/ctflearner/Learn365/blob/main/Days/Day37.md)|
 |11-02-23| 38 |[<ul><li>SecurityExplained S-15: Vulnerable Code Snippet - 3</li><li>SecurityExplained S-16: Vulnerable Code Snippet - 4</li><li>SecurityExplained S-17: Vulnerable Code Snippet - 5</li></ul>](https://github.com/ctflearner/Learn365/blob/main/Days/Day38.md)|
+|12-02-23| 39 |[<ul><li>SecurityExplained S-18: Vulnerable Code Snippet - 6</li><li>SecurityExplained S-19: Vulnerable Code Snippet - 7</li><li>SecurityExplained S-20: Vulnerable Code Snippet - 8</li></ul>](https://github.com/ctflearner/Learn365/blob/main/Days/Day39.md)|
