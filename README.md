@@ -49,3 +49,4 @@ Welcome to Learn365! This repository is about 365 days of Learning . This reposi
 |15-02-23| 42 |[<ul><li>SecurityExplained S-24: Vulnerable Code Snippet - 12</li><li>SecurityExplained S-25: Vulnerable Code Snippet - 13</li><li>SecurityExplained S-26: Vulnerable Code Snippet - 14</li></ul>](https://github.com/ctflearner/Learn365/blob/main/Days/Day42.md)|
 |16-02-23| 43 |[<ul><li>SecurityExplained S-27: Vulnerable Code Snippet - 15</li><li>SecurityExplained S-28: Vulnerable Code Snippet - 16</li><li>SecurityExplained S-29: Vulnerable Code Snippet - 17</li></ul>](https://github.com/ctflearner/Learn365/blob/main/Days/Day43.md)|
 |17-02-23| 44 |[Spot The Vulnerability XSS Challenge Simplified](https://github.com/ctflearner/Learn365/blob/main/Days/Day44.md)|
+|18-02-23| 45 |[Basics Of HTTP Request Smuggling](https://github.com/ctflearner/Learn365/blob/main/Days/Day45.md)|
