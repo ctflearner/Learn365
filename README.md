@@ -53,3 +53,4 @@ Welcome to Learn365! This repository is about 365 days of Learning . This reposi
 |19-02-23| 46 |[HTTP REQUEST SMUGGLING PART-2](https://github.com/ctflearner/Learn365/blob/main/Days/Day46.md)|
 |20-02-23| 47 |[A GUIDE TO SERVER SIDE REQUEST FORGERY(SSRF)](https://github.com/ctflearner/Learn365/blob/main/Days/Day47.md)|
 |21-02-23| 48 |[Deep Dive Into Android Security](https://github.com/ctflearner/Learn365/blob/main/Days/Day48.md)|
+|22-02-23| 49 |[Getting Started Into Android Security Part 2](https://github.com/ctflearner/Learn365/blob/main/Days/Day49.md)|
