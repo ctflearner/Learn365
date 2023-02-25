@@ -56,3 +56,4 @@ Welcome to Learn365! This repository is about 365 days of Learning . This reposi
 |22-02-23| 49 |[Getting Started Into Android Security Part 2](https://github.com/ctflearner/Learn365/blob/main/Days/Day49.md)|
 |23-02-23| 50 |[Oauth A Feature To Vulnerability](https://github.com/ctflearner/Learn365/blob/main/Days/Day50.md)|
 |24-02-23| 51 |[Broken Access Control in francoisjacquet/rosariosis](https://github.com/ctflearner/Learn365/blob/main/Days/Day51.md)|
+|25-02-23| 52 |[Limited LFI via Path Traversal in salesagility/suitecrm](https://github.com/ctflearner/Learn365/blob/main/Days/Day52.md)|
