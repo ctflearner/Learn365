@@ -58,3 +58,4 @@ Welcome to Learn365! This repository is about 365 days of Learning . This reposi
 |24-02-23| 51 |[Broken Access Control in francoisjacquet/rosariosis](https://github.com/ctflearner/Learn365/blob/main/Days/Day51.md)|
 |25-02-23| 52 |[Limited LFI via Path Traversal in salesagility/suitecrm](https://github.com/ctflearner/Learn365/blob/main/Days/Day52.md)|
 |26-02-23| 53 |[Prevent account takeover with proper cookie configuration](https://github.com/ctflearner/Learn365/blob/main/Days/Day53.md)|
+|27-02-23| 54 |[Arbitrary txt files deletion (authenticated) in nilsteampassnet/teampass](https://github.com/ctflearner/Learn365/blob/main/Days/Day54.md)|
