@@ -61,3 +61,4 @@ Welcome to Learn365! This repository is about 365 days of Learning . This reposi
 |27-02-23| 54 |[Arbitrary txt files deletion (authenticated) in nilsteampassnet/teampass](https://github.com/ctflearner/Learn365/blob/main/Days/Day54.md)|
 |28-02-23| 55 |[How I hacked into a company with 200,000+ users](https://github.com/ctflearner/Learn365/blob/main/Days/Day55.md)|
 |01-03-23| 56 |[Networking Pivoting via SSH](https://github.com/ctflearner/Learn365/blob/main/Days/Day56.md)|
+|02-03-23| 57 |[SecurityExplained S-30: Vulnerable Code Snippet - 18](https://github.com/ctflearner/Learn365/blob/main/Days/Day57.md)|
