@@ -63,3 +63,5 @@ Welcome to Learn365! This repository is about 365 days of Learning . This reposi
 |01-03-23| 56 |[Networking Pivoting via SSH](https://github.com/ctflearner/Learn365/blob/main/Days/Day56.md)|
 |02-03-23| 57 |[SecurityExplained S-30: Vulnerable Code Snippet - 18](https://github.com/ctflearner/Learn365/blob/main/Days/Day57.md)|
 |03-03-23| 58 |[Mobile Application Pentesting: Analyzing Common Vulnerabilities](https://github.com/ctflearner/Learn365/blob/main/Days/Day58.md)|
+|04-03-23| 59 |[SQL Injection in 'core/ajax/ajax_data.php' in unilogies/bumsys
+](https://github.com/ctflearner/Learn365/blob/main/Days/Day59.md)|
