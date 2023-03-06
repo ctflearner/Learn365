@@ -65,3 +65,4 @@ Welcome to Learn365! This repository is about 365 days of Learning . This reposi
 |03-03-23| 58 |[Mobile Application Pentesting: Analyzing Common Vulnerabilities](https://github.com/ctflearner/Learn365/blob/main/Days/Day58.md)|
 |04-03-23| 59 |[SQL Injection in 'core/ajax/ajax_data.php' in unilogies/bumsys](https://github.com/ctflearner/Learn365/blob/main/Days/Day59.md)|
 |05-03-23| 60 |[A New Vector For “Dirty” Arbitrary File Write to RCE](https://github.com/ctflearner/Learn365/blob/main/Days/Day60.md)|
+|06-03-23| 61 |[Cross-Site Request Forgery (CSRF) Explained](https://github.com/ctflearner/Learn365/blob/main/Days/Day61.md)|
