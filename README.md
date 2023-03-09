@@ -68,3 +68,4 @@ Welcome to Learn365! This repository is about 365 days of Learning . This reposi
 |06-03-23| 61 |[Cross-Site Request Forgery (CSRF) Explained](https://github.com/ctflearner/Learn365/blob/main/Days/Day61.md)|
 |07-03-23| 62 |[<ul><li>Stored DOM-based Cross-site Scripting in Tags Functionality in answerdev/answer</li><li>SQL Injection in Custom Fields in phpipam/phpipam</li></ul>](https://github.com/ctflearner/Learn365/blob/main/Days/Day62.md)|
 |08-03-23| 63 |[XSS via Client Side Template Injection in btcpayserver/btcpayserver](https://github.com/ctflearner/Learn365/blob/main/Days/Day63.md)|
+|09-03-23| 64 |[How to Write your First Nuclei Template ?](https://github.com/ctflearner/Learn365/blob/main/Days/Day64.md)|
