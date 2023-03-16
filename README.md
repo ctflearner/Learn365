@@ -75,3 +75,4 @@ Welcome to Learn365! This repository is about 365 days of Learning . This reposi
 |13-03-23| 68 |[<ul><li>CSRF leading to delete a domain in modoboa/modoboa</li><li>CSRF leading to delete a user in modoboa/modoboa</li></ul>](https://github.com/ctflearner/Learn365/blob/main/Days/Day68.md)|
 |14-03-23| 69 |[Idor disclose other user's appointment in openemr/openemr](https://github.com/ctflearner/Learn365/blob/main/Days/Day69.md)|
 |15-03-23| 70 |[Unauthenticated OS Command Injection in stamparm/maltrail in stamparm/maltrail](https://github.com/ctflearner/Learn365/blob/main/Days/Day70.md)|
+|16-03-23| 71 |[XSS in Document Types module in Settings in pimcore/pimcore](https://github.com/ctflearner/Learn365/blob/main/Days/Day71.md)|
