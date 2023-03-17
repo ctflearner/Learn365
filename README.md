@@ -76,4 +76,4 @@ Welcome to Learn365! This repository is about 365 days of Learning . This reposi
 |14-03-23| 69 |[Idor disclose other user's appointment in openemr/openemr](https://github.com/ctflearner/Learn365/blob/main/Days/Day69.md)|
 |15-03-23| 70 |[Unauthenticated OS Command Injection in stamparm/maltrail in stamparm/maltrail](https://github.com/ctflearner/Learn365/blob/main/Days/Day70.md)|
 |16-03-23| 71 |[XSS in Document Types module in Settings in pimcore/pimcore](https://github.com/ctflearner/Learn365/blob/main/Days/Day71.md)|
-|17-03-23| 72 |[IDOR Vulnerability Allow Low-Level User Logout Everyone Includes Admin innilsteampassnet/teampass](https://github.com/ctflearner/Learn365/blob/main/Days/Day72.md)|
+|17-03-23| 72 |[IDOR Allow Low-Level User Logout Everyone Includes Admin innilsteampassnet/teampass](https://github.com/ctflearner/Learn365/blob/main/Days/Day72.md)|
