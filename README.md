@@ -77,3 +77,4 @@ Welcome to Learn365! This repository is about 365 days of Learning . This reposi
 |15-03-23| 70 |[Unauthenticated OS Command Injection in stamparm/maltrail in stamparm/maltrail](https://github.com/ctflearner/Learn365/blob/main/Days/Day70.md)|
 |16-03-23| 71 |[XSS in Document Types module in Settings in pimcore/pimcore](https://github.com/ctflearner/Learn365/blob/main/Days/Day71.md)|
 |17-03-23| 72 |[IDOR Allow Low-Level User Logout Everyone Includes Admin innilsteampassnet/teampass](https://github.com/ctflearner/Learn365/blob/main/Days/Day72.md)|
+|18-03-23| 73 |[Phar Deserialization of Untrusted Data in knplabs/snappy](https://github.com/ctflearner/Learn365/blob/main/Days/Day73.md)|
