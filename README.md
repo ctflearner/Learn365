@@ -79,3 +79,4 @@ Welcome to Learn365! This repository is about 365 days of Learning . This reposi
 |17-03-23| 72 |[IDOR Allow Low-Level User Logout Everyone Includes Admin innilsteampassnet/teampass](https://github.com/ctflearner/Learn365/blob/main/Days/Day72.md)|
 |18-03-23| 73 |[Phar Deserialization of Untrusted Data in knplabs/snappy](https://github.com/ctflearner/Learn365/blob/main/Days/Day73.md)|
 |19-03-23| 74 |[Active Directory Series: Active Directory Fundamentals](https://github.com/ctflearner/Learn365/blob/main/Days/Day74.md)|
+|20-03-23| 75 |[SVG Sanitization Bypass - XSS in imgproxy/imgproxy](https://github.com/ctflearner/Learn365/blob/main/Days/Day75.md)|
