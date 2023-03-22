@@ -81,3 +81,4 @@ Welcome to Learn365! This repository is about 365 days of Learning . This reposi
 |19-03-23| 74 |[Active Directory Series: Active Directory Fundamentals](https://github.com/ctflearner/Learn365/blob/main/Days/Day74.md)|
 |20-03-23| 75 |[SVG Sanitization Bypass - XSS in imgproxy/imgproxy](https://github.com/ctflearner/Learn365/blob/main/Days/Day75.md)|
 |21-03-23| 76 |[How I Found Business Logic Vulnerability in Google Pay](https://github.com/ctflearner/Learn365/blob/main/Days/Day76.md)|
+|22-03-23| 77 |[SQL injection in API authorization check in nilsteampassnet/teampass](https://github.com/ctflearner/Learn365/blob/main/Days/Day77.md)|
