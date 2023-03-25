@@ -84,3 +84,4 @@ Welcome to Learn365! This repository is about 365 days of Learning . This reposi
 |22-03-23| 77 |[SQL injection in API authorization check in nilsteampassnet/teampass](https://github.com/ctflearner/Learn365/blob/main/Days/Day77.md)|
 |23-03-23| 78 |[SECURING ACTIVE DIRECTORY WHEN ANONYMOUS USERS MUST HAVE ACCESS](https://github.com/ctflearner/Learn365/blob/main/Days/Day78.md)|
 |24-03-23| 79 |[Blind LFI in register-model/get?name= in mlflow/mlflow](https://github.com/ctflearner/Learn365/blob/main/Days/Day79.md)|
+|25-03-23| 80 |[LFI/RFI in MLflow in mlflow/mlflow](https://github.com/ctflearner/Learn365/blob/main/Days/Day80.md)|
