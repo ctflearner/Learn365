@@ -86,3 +86,4 @@ Welcome to Learn365! This repository is about 365 days of Learning . This reposi
 |24-03-23| 79 |[Blind LFI in register-model/get?name= in mlflow/mlflow](https://github.com/ctflearner/Learn365/blob/main/Days/Day79.md)|
 |25-03-23| 80 |[LFI/RFI in MLflow in mlflow/mlflow](https://github.com/ctflearner/Learn365/blob/main/Days/Day80.md)|
 |26-03-23| 81 |[mitm6 – compromising IPv4 networks via IPv6](https://github.com/ctflearner/Learn365/blob/main/Days/Day81.md)|
+|27-03-23| 82 |[Unhandled SWF Tags in MP4Box: Potential Vulnerability in GPAC in gpac/gpac](https://github.com/ctflearner/Learn365/blob/main/Days/Day82.md)|
