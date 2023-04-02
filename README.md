@@ -92,3 +92,4 @@ Welcome to Learn365! This repository is about 365 days of Learning . This reposi
 |30-03-23| 85 |[token forgery using jwt secret to claim super admin role in deepset-ai/haystack](https://github.com/ctflearner/Learn365/blob/main/Days/Day85.md)|
 |31-03-23| 86 |[XSS @ records in thorsten/phpmyfaq](https://github.com/ctflearner/Learn365/blob/main/Days/Day86.md)|
 |01-04-23| 87 |[RCE by Server Side Template Injection in microweber/microweber](https://github.com/ctflearner/Learn365/blob/main/Days/Day87.md)|
+|02-04-23| 88 |[Captcha Bypass due to invalidation of previous tokens in answerdev/answer](https://github.com/ctflearner/Learn365/blob/main/Days/Day88.md)|
