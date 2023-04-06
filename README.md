@@ -96,3 +96,4 @@ Welcome to Learn365! This repository is about 365 days of Learning . This reposi
 |03-04-23| 89 |[SIGSEGV at libr/bin/p/bin_coff.c:509 in patch_relocs() in radareorg/radare2](https://github.com/ctflearner/Learn365/blob/main/Days/Day89.md)|
 |04-04-23| 90 |[SecurityBoat Dynamic Challenge SSRF Solution](https://github.com/ctflearner/Learn365/blob/main/Days/Day90.md)|
 |05-04-23| 91 |[SQL Injection at /front/report.dynamic.php in glpi-project/glpi](https://github.com/ctflearner/Learn365/blob/main/Days/Day91.md)|
+|06-04-23| 92 |[Broken Access Control in Vote/Friend Function in pbboard/pbboard-3.0.4](https://github.com/ctflearner/Learn365/blob/main/Days/Day92.md)|
