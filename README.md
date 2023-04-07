@@ -97,3 +97,4 @@ Welcome to Learn365! This repository is about 365 days of Learning . This reposi
 |04-04-23| 90 |[SecurityBoat Dynamic Challenge SSRF Solution](https://github.com/ctflearner/Learn365/blob/main/Days/Day90.md)|
 |05-04-23| 91 |[SQL Injection at /front/report.dynamic.php in glpi-project/glpi](https://github.com/ctflearner/Learn365/blob/main/Days/Day91.md)|
 |06-04-23| 92 |[Broken Access Control in Vote/Friend Function in pbboard/pbboard-3.0.4](https://github.com/ctflearner/Learn365/blob/main/Days/Day92.md)|
+|07-04-23| 93 |[Guide to Parameter Enumeration](https://github.com/ctflearner/Learn365/blob/main/Days/Day93.md)|
