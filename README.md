@@ -99,3 +99,4 @@ Welcome to Learn365! This repository is about 365 days of Learning . This reposi
 |06-04-23| 92 |[Broken Access Control in Vote/Friend Function in pbboard/pbboard-3.0.4](https://github.com/ctflearner/Learn365/blob/main/Days/Day92.md)|
 |07-04-23| 93 |[Guide to Parameter Enumeration](https://github.com/ctflearner/Learn365/blob/main/Days/Day93.md)|
 |08-04-23| 94 |[IDOR on save email configuration leads to account takeover in glpi-project/glpi](https://github.com/ctflearner/Learn365/blob/main/Days/Day94.md)|
+|09-04-23| 95 |[Formula injection via Full Name in chatwoot/chatwoot](https://github.com/ctflearner/Learn365/blob/main/Days/Day95.md)|
