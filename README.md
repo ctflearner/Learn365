@@ -101,3 +101,4 @@ Welcome to Learn365! This repository is about 365 days of Learning . This reposi
 |08-04-23| 94 |[IDOR on save email configuration leads to account takeover in glpi-project/glpi](https://github.com/ctflearner/Learn365/blob/main/Days/Day94.md)|
 |09-04-23| 95 |[Formula injection via Full Name in chatwoot/chatwoot](https://github.com/ctflearner/Learn365/blob/main/Days/Day95.md)|
 |10-04-23| 96 |[CSRF & Bypasses](https://github.com/ctflearner/Learn365/blob/main/Days/Day96.md)|
+|11-04-23| 97 |[Password reset link not expired in answerdev/answer](https://github.com/ctflearner/Learn365/blob/main/Days/Day97.md)|
