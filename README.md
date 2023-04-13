@@ -103,3 +103,4 @@ Welcome to Learn365! This repository is about 365 days of Learning . This reposi
 |10-04-23| 96 |[CSRF & Bypasses](https://github.com/ctflearner/Learn365/blob/main/Days/Day96.md)|
 |11-04-23| 97 |[Password reset link not expired in answerdev/answer](https://github.com/ctflearner/Learn365/blob/main/Days/Day97.md)|
 |12-04-23| 98 |[Exploiting Server Side Request Forgery (SSRF) in an API](https://github.com/ctflearner/Learn365/blob/main/Days/Day98.md)|
+|13-04-23| 99 |[Stored XSS on function item with folder in nilsteampassnet/teampass](https://github.com/ctflearner/Learn365/blob/main/Days/Day99.md)|
