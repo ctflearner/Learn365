@@ -104,3 +104,4 @@ Welcome to Learn365! This repository is about 365 days of Learning . This reposi
 |11-04-23| 97 |[Password reset link not expired in answerdev/answer](https://github.com/ctflearner/Learn365/blob/main/Days/Day97.md)|
 |12-04-23| 98 |[Exploiting Server Side Request Forgery (SSRF) in an API](https://github.com/ctflearner/Learn365/blob/main/Days/Day98.md)|
 |13-04-23| 99 |[Stored XSS on function item with folder in nilsteampassnet/teampass](https://github.com/ctflearner/Learn365/blob/main/Days/Day99.md)|
+|14-04-23|100 |[RCE Through Unrestrict File Write in froxlor/froxlor](https://github.com/ctflearner/Learn365/commit/ec6ceffd64290ff94bc5860333c6a96cddc67968)|
