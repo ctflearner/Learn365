@@ -110,3 +110,4 @@ Welcome to Learn365! This repository is about 365 days of Learning . This reposi
 |17-04-23|103|[HTTP Parameter Pollution (English)](https://github.com/ctflearner/Learn365/blob/main/Days/Day103.md)|
 |18-04-23|104|[Able to change admin email and password without current password validation. in limesurvey/limesurvey](https://github.com/ctflearner/Learn365/blob/main/Days/Day104.md)|
 |19-04-23|105|[A detailed guide to OSINT](https://github.com/ctflearner/Learn365/blob/main/Days/Day105.md)|
+|20-26 | 106-112|[SQL Injection leads to code execution in unilogies/bumsys](https://github.com/ctflearner/Learn365/blob/main/Days/Day:106-112)|
