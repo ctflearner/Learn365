@@ -112,3 +112,4 @@ Welcome to Learn365! This repository is about 365 days of Learning . This reposi
 |19-04-23|105|[A detailed guide to OSINT](https://github.com/ctflearner/Learn365/blob/main/Days/Day105.md)|
 |20-26 | 106-112|[SQL Injection leads to code execution in unilogies/bumsys](https://github.com/ctflearner/Learn365/blob/main/Days/Day:106-112)|
 |27-04-23|113|[Cross site scripting on the login page in pimcore/pimcore](https://github.com/ctflearner/Learn365/blob/main/Days/Day113.md)|
+|28-04-23|114|[Path Traversal in code in unilogies/bumsys](https://github.com/ctflearner/Learn365/blob/main/Days/Day114.md)|
