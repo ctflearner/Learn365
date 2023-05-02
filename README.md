@@ -116,3 +116,4 @@ Welcome to Learn365! This repository is about 365 days of Learning . This reposi
 |29-04-23|115|[Weaponizing Reflected XSS to Account Takeover](https://github.com/ctflearner/Learn365/blob/main/Days/Day115.md)|
 |30-04-23|116|[Reflected xss on login.php leads to account takeover](https://github.com/ctflearner/Learn365/blob/main/Days/Day116.md)|
 |01-05-23|117|[Email Address Manipulation Vulnerability in thorsten/phpmyfaq](https://github.com/ctflearner/Learn365/blob/main/Days/Day117.md)|
+|02-05-23|118|[Zero-Click Remote Code Execution in appium/appium-desktop](https://github.com/ctflearner/Learn365/blob/main/Days/Day118.md)|
