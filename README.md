@@ -119,3 +119,4 @@ Welcome to Learn365! This repository is about 365 days of Learning . This reposi
 |02-05-23|118|[Zero-Click Remote Code Execution in appium/appium-desktop](https://github.com/ctflearner/Learn365/blob/main/Days/Day118.md)|
 |03-05-23|119|[Multiple SQL Injections in salesagility/suitecrm](https://github.com/ctflearner/Learn365/blob/main/Days/Day119.md)|
 |04-05-23|120|[AWS Cognito Misconfigurations: The Silent Killer of Your Cloud Security](https://github.com/ctflearner/Learn365/blob/main/Days/Day120.md)|
+|05-05-23|121|[Broken Rate Limiting in azuracast/azuracast](https://github.com/ctflearner/Learn365/blob/main/Days/Day121.md)|
