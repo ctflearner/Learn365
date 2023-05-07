@@ -121,3 +121,4 @@ Welcome to Learn365! This repository is about 365 days of Learning . This reposi
 |04-05-23|120|[AWS Cognito Misconfigurations: The Silent Killer of Your Cloud Security](https://github.com/ctflearner/Learn365/blob/main/Days/Day120.md)|
 |05-05-23|121|[Broken Rate Limiting in azuracast/azuracast](https://github.com/ctflearner/Learn365/blob/main/Days/Day121.md)|
 |06-05-23|122|[Stored XSS on items in Folder in nilsteampassnet/teampass](https://github.com/ctflearner/Learn365/blob/main/Days/Day122.md)|
+|07-05-23|123|[How I found XSS via SSRF vulnerability -Adesh Kolte](https://github.com/ctflearner/Learn365/blob/main/Days/Day123.md)|
