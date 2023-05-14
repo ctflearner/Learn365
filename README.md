@@ -128,3 +128,4 @@ Welcome to Learn365! This repository is about 365 days of Learning . This reposi
 |11-05-23|127|[Escalating SSRF to RCE](https://github.com/ctflearner/Learn365/blob/main/Days/Day127.md)|
 |12-05-23|128|[Lack of brute force protection in linagora/twake](https://github.com/ctflearner/Learn365/blob/main/Days/Day128.md)|
 |13-05-23|129|[Chaining vulnerabilities leads to account takeover](https://github.com/ctflearner/Learn365/blob/main/Days/Day129.md)|
+|14-05-23|130|[Solved:Stocker From HTB ](https://github.com/ctflearner/Learn365/blob/main/Days/Day130.md)|
