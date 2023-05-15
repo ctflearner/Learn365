@@ -74,9 +74,9 @@ Welcome to Learn365! This repository is about 365 days of Learning . This reposi
 |12-03-23| 67 |[IDOR to delete memo from archives in usememos/memos](https://github.com/ctflearner/Learn365/blob/main/Days/Day67.md)|
 |13-03-23| 68 |[<ul><li>CSRF leading to delete a domain in modoboa/modoboa</li><li>CSRF leading to delete a user in modoboa/modoboa</li></ul>](https://github.com/ctflearner/Learn365/blob/main/Days/Day68.md)|
 |14-03-23| 69 |[Idor disclose other user's appointment in openemr/openemr](https://github.com/ctflearner/Learn365/blob/main/Days/Day69.md)|
-|15-03-23| 70 |[Unauthenticated OS Command Injection in stamparm/maltrail in stamparm/maltrail](https://github.com/ctflearner/Learn365/blob/main/Days/Day70.md)|
+|15-03-23| 70 |[Unauthenticated OS in stamparm/maltrail in stamparm/maltrail](https://github.com/ctflearner/Learn365/blob/main/Days/Day70.md)|
 |16-03-23| 71 |[XSS in Document Types module in Settings in pimcore/pimcore](https://github.com/ctflearner/Learn365/blob/main/Days/Day71.md)|
-|17-03-23| 72 |[IDOR Allow Low-Level User Logout Everyone Includes Admin innilsteampassnet/teampass](https://github.com/ctflearner/Learn365/blob/main/Days/Day72.md)|
+|17-03-23| 72 |[IDOR in ilsteampassnet/teampass](https://github.com/ctflearner/Learn365/blob/main/Days/Day72.md)|
 |18-03-23| 73 |[Phar Deserialization of Untrusted Data in knplabs/snappy](https://github.com/ctflearner/Learn365/blob/main/Days/Day73.md)|
 |19-03-23| 74 |[Active Directory Series: Active Directory Fundamentals](https://github.com/ctflearner/Learn365/blob/main/Days/Day74.md)|
 |20-03-23| 75 |[SVG Sanitization Bypass - XSS in imgproxy/imgproxy](https://github.com/ctflearner/Learn365/blob/main/Days/Day75.md)|
