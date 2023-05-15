@@ -115,16 +115,16 @@ Welcome to Learn365! This repository is about 365 days of Learning . This reposi
 |28-04-23|114|[Path Traversal in code in unilogies/bumsys](https://github.com/ctflearner/Learn365/blob/main/Days/Day114.md)|
 |29-04-23|115|[Weaponizing Reflected XSS to Account Takeover](https://github.com/ctflearner/Learn365/blob/main/Days/Day115.md)|
 |30-04-23|116|[Reflected xss on login.php leads to account takeover](https://github.com/ctflearner/Learn365/blob/main/Days/Day116.md)|
-|01-05-23|117|[Email Address Manipulation Vulnerability in thorsten/phpmyfaq](https://github.com/ctflearner/Learn365/blob/main/Days/Day117.md)|
+|01-05-23|117|[EmailAddress Manipulation Vulnerability in thorsten/phpmyfaq](https://github.com/ctflearner/Learn365/blob/main/Days/Day117.md)|
 |02-05-23|118|[Zero-Click Remote Code Execution in appium/appium-desktop](https://github.com/ctflearner/Learn365/blob/main/Days/Day118.md)|
 |03-05-23|119|[Multiple SQL Injections in salesagility/suitecrm](https://github.com/ctflearner/Learn365/blob/main/Days/Day119.md)|
-|04-05-23|120|[AWS Cognito Misconfigurations: The Silent Killer of Your Cloud Security](https://github.com/ctflearner/Learn365/blob/main/Days/Day120.md)|
+|04-05-23|120|[AWS_Cognito_Misconfigurations:The_Silent_Killer](https://github.com/ctflearner/Learn365/blob/main/Days/Day120.md)|
 |05-05-23|121|[Broken Rate Limiting in azuracast/azuracast](https://github.com/ctflearner/Learn365/blob/main/Days/Day121.md)|
 |06-05-23|122|[Stored XSS on items in Folder in nilsteampassnet/teampass](https://github.com/ctflearner/Learn365/blob/main/Days/Day122.md)|
 |07-05-23|123|[How I found XSS via SSRF vulnerability -Adesh Kolte](https://github.com/ctflearner/Learn365/blob/main/Days/Day123.md)|
 |08-05-23|124|[API6 - Mass Assignment-crAPI](https://github.com/ctflearner/Learn365/blob/main/Days/Day124.md)|
 |09-05-23|125|[Solved-lab:Blind SQL Injection with Conditional Responses ](https://github.com/ctflearner/Learn365/blob/main/Days/Day125.md)|
-|10-05-23|126|[untrusted-input-inside-CSV-files-leads-to-CSV-Injection-in-pimcore/customer-data-framework](https://github.com/ctflearner/Learn365/blob/main/Days/Day126.md)|
+|10-05-23|126|[CSV-Injection-in-pimcore/customer-data-framework](https://github.com/ctflearner/Learn365/blob/main/Days/Day126.md)|
 |11-05-23|127|[Escalating SSRF to RCE](https://github.com/ctflearner/Learn365/blob/main/Days/Day127.md)|
 |12-05-23|128|[Lack of brute force protection in linagora/twake](https://github.com/ctflearner/Learn365/blob/main/Days/Day128.md)|
 |13-05-23|129|[Chaining vulnerabilities leads to account takeover](https://github.com/ctflearner/Learn365/blob/main/Days/Day129.md)|
