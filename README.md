@@ -81,24 +81,24 @@ Welcome to Learn365! This repository is about 365 days of Learning . This reposi
 |19-03-23| 74 |[Active Directory Series: Active Directory Fundamentals](https://github.com/ctflearner/Learn365/blob/main/Days/Day74.md)|
 |20-03-23| 75 |[SVG Sanitization Bypass - XSS in imgproxy/imgproxy](https://github.com/ctflearner/Learn365/blob/main/Days/Day75.md)|
 |21-03-23| 76 |[How I Found Business Logic Vulnerability in Google Pay](https://github.com/ctflearner/Learn365/blob/main/Days/Day76.md)|
-|22-03-23| 77 |[SQL injection in API authorization check in nilsteampassnet/teampass](https://github.com/ctflearner/Learn365/blob/main/Days/Day77.md)|
-|23-03-23| 78 |[SECURING ACTIVE DIRECTORY WHEN ANONYMOUS USERS MUST HAVE ACCESS](https://github.com/ctflearner/Learn365/blob/main/Days/Day78.md)|
+|22-03-23| 77 |[SQLi in API authorization check in nilsteampassnet/teampass](https://github.com/ctflearner/Learn365/blob/main/Days/Day77.md)|
+|23-03-23| 78 |[SECURING AD WHEN ANONYMOUS USERS MUST HAVE ACCESS](https://github.com/ctflearner/Learn365/blob/main/Days/Day78.md)|
 |24-03-23| 79 |[Blind LFI in register-model/get?name= in mlflow/mlflow](https://github.com/ctflearner/Learn365/blob/main/Days/Day79.md)|
 |25-03-23| 80 |[LFI/RFI in MLflow in mlflow/mlflow](https://github.com/ctflearner/Learn365/blob/main/Days/Day80.md)|
 |26-03-23| 81 |[mitm6 – compromising IPv4 networks via IPv6](https://github.com/ctflearner/Learn365/blob/main/Days/Day81.md)|
-|27-03-23| 82 |[Unhandled SWF Tags in MP4Box: Potential Vulnerability in GPAC in gpac/gpac](https://github.com/ctflearner/Learn365/blob/main/Days/Day82.md)|
+|27-03-23| 82 |[Unhandled SWF Tags in MP4Box:  in GPAC in gpac/gpac](https://github.com/ctflearner/Learn365/blob/main/Days/Day82.md)|
 |28-03-23| 83 |[how-to-shut-down-a-plant-remotely](https://github.com/ctflearner/Learn365/blob/main/Days/Day83.md)|
-|29-03-23| 84 |[Autenticated Stored Cross-Site Scripting (XSS) in pluck-cms/pluck](https://github.com/ctflearner/Learn365/blob/main/Days/Day84.md)|
-|30-03-23| 85 |[token forgery using jwt secret to claim super admin role in deepset-ai/haystack](https://github.com/ctflearner/Learn365/blob/main/Days/Day85.md)|
+|29-03-23| 84 |[Autenticated Stored (XSS) in pluck-cms/pluck](https://github.com/ctflearner/Learn365/blob/main/Days/Day84.md)|
+|30-03-23| 85 |[token forgery  in deepset-ai/haystack](https://github.com/ctflearner/Learn365/blob/main/Days/Day85.md)|
 |31-03-23| 86 |[XSS @ records in thorsten/phpmyfaq](https://github.com/ctflearner/Learn365/blob/main/Days/Day86.md)|
-|01-04-23| 87 |[RCE by Server Side Template Injection in microweber/microweber](https://github.com/ctflearner/Learn365/blob/main/Days/Day87.md)|
-|02-04-23| 88 |[Captcha Bypass due to invalidation of previous tokens in answerdev/answer](https://github.com/ctflearner/Learn365/blob/main/Days/Day88.md)|
-|03-04-23| 89 |[SIGSEGV at libr/bin/p/bin_coff.c:509 in patch_relocs() in radareorg/radare2](https://github.com/ctflearner/Learn365/blob/main/Days/Day89.md)|
+|01-04-23| 87 |[RCE by SSTI Injection in microweber/microweber](https://github.com/ctflearner/Learn365/blob/main/Days/Day87.md)|
+|02-04-23| 88 |[Captcha Bypass  in answerdev/answer](https://github.com/ctflearner/Learn365/blob/main/Days/Day88.md)|
+|03-04-23| 89 |[SIGSEGV libr/bin/p/bin_ radareorg/radare2](https://github.com/ctflearner/Learn365/blob/main/Days/Day89.md)|
 |04-04-23| 90 |[SecurityBoat Dynamic Challenge SSRF Solution](https://github.com/ctflearner/Learn365/blob/main/Days/Day90.md)|
-|05-04-23| 91 |[SQL Injection at /front/report.dynamic.php in glpi-project/glpi](https://github.com/ctflearner/Learn365/blob/main/Days/Day91.md)|
-|06-04-23| 92 |[Broken Access Control in Vote/Friend Function in pbboard/pbboard-3.0.4](https://github.com/ctflearner/Learn365/blob/main/Days/Day92.md)|
+|05-04-23| 91 |[SQLi  at /front/report.dynamic.php in glpi-project/glpi](https://github.com/ctflearner/Learn365/blob/main/Days/Day91.md)|
+|06-04-23| 92 |[BAC in Vote/Friend Function in pbboard/pbboard-3.0.4](https://github.com/ctflearner/Learn365/blob/main/Days/Day92.md)|
 |07-04-23| 93 |[Guide to Parameter Enumeration](https://github.com/ctflearner/Learn365/blob/main/Days/Day93.md)|
-|08-04-23| 94 |[IDOR on save email configuration leads to account takeover in glpi-project/glpi](https://github.com/ctflearner/Learn365/blob/main/Days/Day94.md)|
+|08-04-23| 94 |[IDOR-leads to account takeover in glpi-project/glpi](https://github.com/ctflearner/Learn365/blob/main/Days/Day94.md)|
 |09-04-23| 95 |[Formula injection via Full Name in chatwoot/chatwoot](https://github.com/ctflearner/Learn365/blob/main/Days/Day95.md)|
 |10-04-23| 96 |[CSRF & Bypasses](https://github.com/ctflearner/Learn365/blob/main/Days/Day96.md)|
 |11-04-23| 97 |[Password reset link not expired in answerdev/answer](https://github.com/ctflearner/Learn365/blob/main/Days/Day97.md)|
