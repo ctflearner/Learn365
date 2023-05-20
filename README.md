@@ -134,3 +134,4 @@ Welcome to Learn365! This repository is about 365 days of Learning . This reposi
 |17-05-23|133|[Possible URL spoofing on wildcard path in unjs/h3](https://github.com/ctflearner/Learn365/blob/main/Days/Day133.md)|
 |18-05-23|134|[Stored xss leads to doctor / admin account takeover](https://github.com/ctflearner/Learn365/blob/main/Days/Day134.md)|
 |19-05-23|135|[Insecure Temporary File in huggingface/transformers](https://github.com/ctflearner/Learn365/blob/main/Days/Day135.md)|
+|20-05-23|136|[Local File Read Bypass in mlflow/mlflow in mlflow/mlflow](https://github.com/ctflearner/Learn365/blob/main/Days/Day136.md)|
