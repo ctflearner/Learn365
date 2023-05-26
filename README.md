@@ -140,3 +140,4 @@ Welcome to Learn365! This repository is about 365 days of Learning . This reposi
 |23-05-23|139|[XML External Entity (XXE) injection in sympy in sympy/sympy](https://github.com/ctflearner/Learn365/blob/main/Days/Day139.md)|
 |24-05-23|140|[Stored HTML injection in  nilsteampassnet/teampass](https://github.com/ctflearner/Learn365/blob/main/Days/Day140.md)|
 |25-05-23|141|[IDOR leading to Privilege Escalation!](https://github.com/ctflearner/Learn365/blob/main/Days/Day141.md)|
+|26-05-23|142|[Building a Password Cracker in Rust](https://github.com/ctflearner/Learn365/blob/main/Days/Day142.md)|
