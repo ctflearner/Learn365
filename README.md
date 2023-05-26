@@ -139,4 +139,4 @@ Welcome to Learn365! This repository is about 365 days of Learning . This reposi
 |22-05-23|138|[Stored XSS and CSP Bypass in KiwiTCMS in kiwitcms/kiwi](https://github.com/ctflearner/Learn365/blob/main/Days/Day138.md)|
 |23-05-23|139|[XML External Entity (XXE) injection in sympy in sympy/sympy](https://github.com/ctflearner/Learn365/blob/main/Days/Day139.md)|
 |24-05-23|140|[Stored HTML injection in  nilsteampassnet/teampass](https://github.com/ctflearner/Learn365/blob/main/Days/Day140.md)|
-|25-25-23|141|[IDOR leading to Privilege Escalation!](https://github.com/ctflearner/Learn365/blob/main/Days/Day141.md)|
+|25-05-23|141|[IDOR leading to Privilege Escalation!](https://github.com/ctflearner/Learn365/blob/main/Days/Day141.md)|
