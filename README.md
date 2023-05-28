@@ -142,3 +142,4 @@ Welcome to Learn365! This repository is about 365 days of Learning . This reposi
 |25-05-23|141|[IDOR leading to Privilege Escalation!](https://github.com/ctflearner/Learn365/blob/main/Days/Day141.md)|
 |26-05-23|142|[Building a Password Cracker in Rust](https://github.com/ctflearner/Learn365/blob/main/Days/Day142.md)|
 |27-05-23|143|[HTTP Request Smuggling Basics  ](https://github.com/ctflearner/Learn365/blob/main/Days/Day143.md)|
+|28-05-23|144|[Blind SQLi](https://github.com/ctflearner/Learn365/blob/main/Days/Day144.md)|
