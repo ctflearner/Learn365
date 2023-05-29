@@ -143,3 +143,4 @@ Welcome to Learn365! This repository is about 365 days of Learning . This reposi
 |26-05-23|142|[Building a Password Cracker in Rust](https://github.com/ctflearner/Learn365/blob/main/Days/Day142.md)|
 |27-05-23|143|[HTTP Request Smuggling Basics  ](https://github.com/ctflearner/Learn365/blob/main/Days/Day143.md)|
 |28-05-23|144|[Blind SQLi](https://github.com/ctflearner/Learn365/blob/main/Days/Day144.md)|
+|29-05-23|145|[How a simple Directory Listing leads to PII Data Leakage,RCE](https://github.com/ctflearner/Learn365/blob/main/Days/Day145.md)|
