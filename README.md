@@ -145,3 +145,4 @@ Welcome to Learn365! This repository is about 365 days of Learning . This reposi
 |28-05-23|144|[Blind SQLi](https://github.com/ctflearner/Learn365/blob/main/Days/Day144.md)|
 |29-05-23|145|[How a simple Directory Listing leads to PII Data Leakage,RCE](https://github.com/ctflearner/Learn365/blob/main/Days/Day145.md)|
 |30-05-23|146|[Security source code review expert - Shubham Shah](https://github.com/ctflearner/Learn365/blob/main/Days/Day146.md)|
+|31-05-23|147|[Stored XSS bypass in "FAQ" in thorsten/phpmyfaq](https://github.com/ctflearner/Learn365/blob/main/Days/Day147.md)|
