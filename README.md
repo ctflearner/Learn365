@@ -147,3 +147,4 @@ Welcome to Learn365! This repository is about 365 days of Learning . This reposi
 |30-05-23|146|[Security source code review expert - Shubham Shah](https://github.com/ctflearner/Learn365/blob/main/Days/Day146.md)|
 |31-05-23|147|[Stored XSS bypass in "FAQ" in thorsten/phpmyfaq](https://github.com/ctflearner/Learn365/blob/main/Days/Day147.md)|
 |01-06-23|148|[5 Ways I Bypassed Your Web Application Firewall (WAF)](https://github.com/ctflearner/Learn365/blob/main/Days/Day148.md)|
+|02-06-23|149|[XSS at User-Agent of Headers in mkucej/i-librarian-free](https://github.com/ctflearner/Learn365/blob/main/Days/Day149.md)|
