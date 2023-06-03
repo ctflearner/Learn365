@@ -148,3 +148,4 @@ Welcome to Learn365! This repository is about 365 days of Learning . This reposi
 |31-05-23|147|[Stored XSS bypass in "FAQ" in thorsten/phpmyfaq](https://github.com/ctflearner/Learn365/blob/main/Days/Day147.md)|
 |01-06-23|148|[5 Ways I Bypassed Your Web Application Firewall (WAF)](https://github.com/ctflearner/Learn365/blob/main/Days/Day148.md)|
 |02-06-23|149|[XSS at User-Agent of Headers in mkucej/i-librarian-free](https://github.com/ctflearner/Learn365/blob/main/Days/Day149.md)|
+|03-06-23|150|[Attacker can turn off 2FA of the Admin in tsolucio/corebos](https://github.com/ctflearner/Learn365/blob/main/Days/Day150.md)|
