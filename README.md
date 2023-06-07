@@ -152,3 +152,4 @@ Welcome to Learn365! This repository is about 365 days of Learning . This reposi
 |04-06-23|151|[Bypass change password policy in tsolucio/corebos](https://github.com/ctflearner/Learn365/blob/main/Days/Day151.md)|
 |05-06-23|152|[BAC On Item via ID in nilsteampassnet/teampass](https://github.com/ctflearner/Learn365/blob/main/Days/Day152.md)|
 |06-06-23|153|[Stored XSS Via SVG Upload in kiwitcms/kiwi](https://github.com/ctflearner/Learn365/blob/main/Days/Day153.md)|
+|07-06-23|154|[Chaining HTML injection to XSS lead to steal Cookie](https://github.com/ctflearner/Learn365/blob/main/Days/Day154.md)|
