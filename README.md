@@ -157,3 +157,4 @@ Welcome to Learn365! This repository is about 365 days of Learning . This reposi
 |09-06-23|156|[Web Services And Its Attack Types ](https://github.com/ctflearner/Learn365/blob/main/Days/Day156.md)|
 |10-06-23|157|[HTML Injection in Folder Name in nilsteampassnet/teampass](https://github.com/ctflearner/Learn365/blob/main/Days/Day157.md)|
 |11-06-23|158|[File Path Traversal Vulnerability in froxlor/froxlor](https://github.com/ctflearner/Learn365/blob/main/Days/Day158.md)|
+|12-06-23|159|[Session Fixation  in froxlor/froxlor](https://github.com/ctflearner/Learn365/blob/main/Days/Day159.md)|
