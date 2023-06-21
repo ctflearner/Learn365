@@ -166,3 +166,4 @@ Welcome to Learn365! This repository is about 365 days of Learning . This reposi
 |18-06-23|165|[IDOR in message deletion in admidio/admidio](https://github.com/ctflearner/Learn365/blob/main/Days/Day165.md)|
 |19-06-23|166|[The user can delete himself in limesurvey/limesurvey](https://github.com/ctflearner/Learn365/blob/main/Days/Day166.md)|
 |20-06-23|167|[Bypassing Okta SSO=> HTTPS/HTTP](https://github.com/ctflearner/Learn365/blob/main/Days/Day167.md)|
+|21-06-23|168|[Formula Injection  in CSV export feature in admidio/admidio](https://github.com/ctflearner/Learn365/blob/main/Days/Day168.md)|
