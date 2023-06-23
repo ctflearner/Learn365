@@ -168,3 +168,4 @@ Welcome to Learn365! This repository is about 365 days of Learning . This reposi
 |20-06-23|167|[Bypassing Okta SSO=> HTTPS/HTTP](https://github.com/ctflearner/Learn365/blob/main/Days/Day167.md)|
 |21-06-23|168|[Formula Injection  in CSV export feature in admidio/admidio](https://github.com/ctflearner/Learn365/blob/main/Days/Day168.md)|
 |22-06-23|169|[Stored XSS in module named in salesagility/suitecrm-core](https://github.com/ctflearner/Learn365/blob/main/Days/Day169.md)|
+|23-06-23|170|[Privilege Escalation Vulnerabilityin fossbilling/fossbilling](https://github.com/ctflearner/Learn365/blob/main/Days/Day170.md)|
