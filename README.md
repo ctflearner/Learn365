@@ -170,3 +170,4 @@ Welcome to Learn365! This repository is about 365 days of Learning . This reposi
 |22-06-23|169|[Stored XSS in module named in salesagility/suitecrm-core](https://github.com/ctflearner/Learn365/blob/main/Days/Day169.md)|
 |23-06-23|170|[Privilege Escalation Vulnerabilityin fossbilling/fossbilling](https://github.com/ctflearner/Learn365/blob/main/Days/Day170.md)|
 |24-06-23|171|[Session Fixation Vulnerability in fossbilling/fossbilling](https://github.com/ctflearner/Learn365/blob/main/Days/Day171.md)|
+|25-06-23|172|[SSTI leads to RCE in fossbilling/fossbilling](https://github.com/ctflearner/Learn365/blob/main/Days/Day172.md)|
