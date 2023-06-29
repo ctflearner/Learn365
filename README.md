@@ -174,3 +174,4 @@ Welcome to Learn365! This repository is about 365 days of Learning . This reposi
 |26-06-23|173|[Arbitrary Code Execution in Apache BRPC in apache/brpc](https://github.com/ctflearner/Learn365/blob/main/Days/Day173.md)|
 |27-06-23|174|[CSRF Leading to reset Boxes in limesurvey/limesurvey](https://github.com/ctflearner/Learn365/blob/main/Days/Day174.md)|
 |28-06-23|175|[URL Restriction Bypass in plantuml/plantuml](https://github.com/ctflearner/Learn365/blob/main/Days/Day175.md)|
+|29-06-23|176|[Leak Secret tokens by changing baseURL nuxt-api-party](https://github.com/ctflearner/Learn365/blob/main/Days/Day176.md)|
