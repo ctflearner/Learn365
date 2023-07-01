@@ -176,4 +176,4 @@ Welcome to Learn365! This repository is about 365 days of Learning . This reposi
 |28-06-23|175|[URL Restriction Bypass in plantuml/plantuml](https://github.com/ctflearner/Learn365/blob/main/Days/Day175.md)|
 |29-06-23|176|[Leak Secret tokens by changing baseURL nuxt-api-party](https://github.com/ctflearner/Learn365/blob/main/Days/Day176.md)|
 |30-06-23|177|[wecan still send the photo asthe albums is locked in admidio](https://github.com/ctflearner/Learn365/blob/main/Days/Day177.md)|
-|1-07-23|178|[RCE via File upload in fossbilling/fossbilling](https://github.com/ctflearner/Learn365/blob/main/Days/Day178.md)|
+|01-07-23|178|[RCE via File upload in fossbilling/fossbilling](https://github.com/ctflearner/Learn365/blob/main/Days/Day178.md)|
