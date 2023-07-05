@@ -180,3 +180,4 @@ Welcome to Learn365! This repository is about 365 days of Learning . This reposi
 |02-07-23|179|[SQLI in searchArticles function in fossbilling/fossbilling](https://github.com/ctflearner/Learn365/blob/main/Days/Day179.md)|
 |03-07-23|180|[CSV Injection while export users in fossbilling/fossbilling](https://github.com/ctflearner/Learn365/blob/main/Days/Day180.md)|
 |04-07-23|181|[IncorrectAuthorizationleads-delete-userlimesurvey/limesurvey](https://github.com/ctflearner/Learn365/blob/main/Days/Day181.md)|
+|05-07-23|182|[Stored XSS in kiwitcms/kiwi](https://github.com/ctflearner/Learn365/blob/main/Days/Day182.md)|
