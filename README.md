@@ -185,3 +185,4 @@ Welcome to Learn365! This repository is about 365 days of Learning . This reposi
 |17-07-23|194|[BUG BOUNTY: ANDROID APPLICATION PENETRATION TESTING #1  2023](https://github.com/ctflearner/Learn365/blob/main/Days/Day194.md)|
 |18-07-23|195|[Potential-XSS injection in stuff and say attributes in i40west/obfumatic](https://github.com/ctflearner/Learn365/blob/main/Days/Day195.md)|
 |19-07-23|196|[Common mistakes when using permissions in Android](https://github.com/ctflearner/Learn365/blob/main/Days/Day196.md)|
+|20-07-23|197|[Exploiting memory corruption vulnerabilities on Android](https://github.com/ctflearner/Learn365/blob/main/Days/Day197.md)|
