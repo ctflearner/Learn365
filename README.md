@@ -190,3 +190,4 @@ Welcome to Learn365! This repository is about 365 days of Learning . This reposi
 |22-07-23|199|[SQL injection in Data Objects function in pimcore/pimcore](https://github.com/ctflearner/Learn365/blob/main/Days/Day199.md)|
 |23-07-23|200|[Exploit Writing 101 - Beyond Just Reporting Bugs](https://github.com/ctflearner/Learn365/blob/main/Days/Day200.md)|
 |24-07-23|201|[Confidentialinformation provided to user with no permissions in pimcore/pimcore](https://github.com/ctflearner/Learn365/blob/main/Days/Day201.md)|
+|25-07-23|202|[Account Takeover via Email Confirmation](https://github.com/ctflearner/Learn365/blob/main/Days/Day202.md)|
