@@ -192,3 +192,4 @@ Welcome to Learn365! This repository is about 365 days of Learning . This reposi
 |24-07-23|201|[Confidentialinformation provided to user with no permissions in pimcore/pimcore](https://github.com/ctflearner/Learn365/blob/main/Days/Day201.md)|
 |25-07-23|202|[Account Takeover via Email Confirmation](https://github.com/ctflearner/Learn365/blob/main/Days/Day202.md)|
 |26-07-23|203|[BUG BOUNTY: DEEP RECON INTO THE WEB APPLICATION](https://github.com/ctflearner/Learn365/blob/main/Days/Day203.md)|
+|27-07-23|204|[XSS on Microsoft.com via Angular Js template injection](https://github.com/ctflearner/Learn365/blob/main/Days/Day204.md)|
