@@ -194,3 +194,4 @@ Welcome to Learn365! This repository is about 365 days of Learning . This reposi
 |26-07-23|203|[BUG BOUNTY: DEEP RECON INTO THE WEB APPLICATION](https://github.com/ctflearner/Learn365/blob/main/Days/Day203.md)|
 |27-07-23|204|[XSS on Microsoft.com via Angular Js template injection](https://github.com/ctflearner/Learn365/blob/main/Days/Day204.md)|
 |28-07-23|205|[Netflix Party — XSS Vulnerabilities](https://github.com/ctflearner/Learn365/blob/main/Days/Day205.md)|
+|29-07-23|206|[Always escalate! From Self-XSS to Persistent XSS on Login Portal](https://github.com/ctflearner/Learn365/blob/main/Days/Day206.md)|
