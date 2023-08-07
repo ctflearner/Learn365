@@ -203,3 +203,4 @@ Welcome to Learn365! This repository is about 365 days of Learning . This reposi
 |04-08-23|212|[What I learned from reading 126* Information Disclosure Writeups](https://github.com/ctflearner/Learn365/blob/main/Days/Day212.md)|
 |05-08-23|213|[How did I find information Disclosure on Facebook-Writeup](https://github.com/ctflearner/Learn365/blob/main/Days/Day213.md)|
 |06-08-23|214|[Information Disclosure](https://github.com/ctflearner/Learn365/blob/main/Days/Day214.md)|
+|07-08-23|215|[AEM misconfiguration leads to Information disclosure](https://github.com/ctflearner/Learn365/blob/main/Days/Day215.md)|
