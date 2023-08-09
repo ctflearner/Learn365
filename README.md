@@ -205,3 +205,4 @@ Welcome to Learn365! This repository is about 365 days of Learning . This reposi
 |06-08-23|214|[Information Disclosure](https://github.com/ctflearner/Learn365/blob/main/Days/Day214.md)|
 |07-08-23|215|[AEM misconfiguration leads to Information disclosure](https://github.com/ctflearner/Learn365/blob/main/Days/Day215.md)|
 |08-08-23|216|[Misconfigured WordPress takeover to Remote Code Execution](https://github.com/ctflearner/Learn365/blob/main/Days/Day216.md)|
+|09-08-23|217|[Chaining Self XSS with UI Redressing is Leading to Session Hijacking ](https://github.com/ctflearner/Learn365/blob/main/Days/Day217.md)|
