@@ -207,3 +207,4 @@ Welcome to Learn365! This repository is about 365 days of Learning . This reposi
 |08-08-23|216|[Misconfigured WordPress takeover to Remote Code Execution](https://github.com/ctflearner/Learn365/blob/main/Days/Day216.md)|
 |09-08-23|217|[Chaining Self XSS with UI Redressing is Leading to Session Hijacking ](https://github.com/ctflearner/Learn365/blob/main/Days/Day217.md)|
 |10-08-23|218|[Response manipulation worth 2000$](https://github.com/ctflearner/Learn365/blob/main/Days/Day218.md)|
+|11-08-23|219|[5500$ Bug Story - Ezzy 2FA Bypass](https://github.com/ctflearner/Learn365/blob/main/Days/Day219.md)|
