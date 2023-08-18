@@ -214,3 +214,4 @@ Welcome to Learn365! This repository is about 365 days of Learning . This reposi
 |15-08-23|223|[Rate Limit Misconfiguration on tumblr login ](https://github.com/ctflearner/Learn365/blob/main/Days/Day223.md)|
 |16-08-23|224|[First Bug Bounty Program found CORS (Cross Origin Resource Sharing ) Misconfiguration](https://github.com/ctflearner/Learn365/blob/main/Days/Day224.md)|
 |17-08-23|225|[Password Reset via OTP BYPASS — response manipulation](https://github.com/ctflearner/Learn365/blob/main/Days/Day225.md)|
+|18-08-23|226|[How to Get Unique Subdomains on Large scope](https://github.com/ctflearner/Learn365/blob/main/Days/Day226.md)|
