@@ -219,3 +219,4 @@ Welcome to Learn365! This repository is about 365 days of Learning . This reposi
 |20-08-23|228|[Pivoting Entire Network with Chisel](https://github.com/ctflearner/Learn365/blob/main/Days/Day228.md)|
 |21-08-23|229|[Lateral movement between two domains without abusing Trust Relationships.](https://github.com/ctflearner/Learn365/blob/main/Days/Day229.md)|
 |22-08-23|230|[Bypass Two-Factor Authentication of Facebook Accounts ($25,300)](https://github.com/ctflearner/Learn365/blob/main/Days/Day230.md)|
+|23-08-23|231|[Windows Domains, Pivot & Profit](https://github.com/ctflearner/Learn365/blob/main/Days/Day231.md)|
