@@ -223,3 +223,4 @@ Welcome to Learn365! This repository is about 365 days of Learning . This reposi
 |24-08-23|232|[ALL about OSCP Pivoting AD Lateral Movement, ligolo-ng, chisel, sshuttle](https://github.com/ctflearner/Learn365/blob/main/Days/Day232.md)|
 |25-08-23|233|[Enumerating AD users with LDAP](https://github.com/ctflearner/Learn365/blob/main/Days/Day233.md)|
 |26-08-23|234|[Cross-site Scripting (XSS) - Stored in hestiacp/hestiacp](https://github.com/ctflearner/Learn365/blob/main/Days/Day234.md)|
+|27-08-23|235|[Open Directory](https://github.com/ctflearner/Learn365/blob/main/Days/Day235.md)|
