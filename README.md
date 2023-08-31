@@ -227,3 +227,4 @@ Welcome to Learn365! This repository is about 365 days of Learning . This reposi
 |28-08-23|236|[Found SSRF and LFI in Just 10 minutes of using burp!](https://github.com/ctflearner/Learn365/blob/main/Days/Day236.md)|
 |29-08-23|237|[Uncovering Vulnerabilities: Security Flaws Discovered on the Indian Prime Minister’s Website](https://github.com/ctflearner/Learn365/blob/main/Days/Day237.md)|
 |30-08-23|238|[IDOR in Users Edit screen in omeka/omeka-s](https://github.com/ctflearner/Learn365/blob/main/Days/Day238.md)|
+|31-08-23|239|[SSRF Blind in the image upload module via url in instantsoft/icms2](https://github.com/ctflearner/Learn365/blob/main/Days/Day239.md)|
