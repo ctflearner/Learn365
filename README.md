@@ -229,3 +229,4 @@ Welcome to Learn365! This repository is about 365 days of Learning . This reposi
 |30-08-23|238|[IDOR in Users Edit screen in omeka/omeka-s](https://github.com/ctflearner/Learn365/blob/main/Days/Day238.md)|
 |31-08-23|239|[SSRF Blind in the image upload module via url in instantsoft/icms2](https://github.com/ctflearner/Learn365/blob/main/Days/Day239.md)|
 |01-09-23|240|[How I found a No Rate Limit bug](https://github.com/ctflearner/Learn365/blob/main/Days/Day240.md)|
+|02-09-23|241|[There is no rate limit for SME REGISTRATION PORTAL](https://github.com/ctflearner/Learn365/blob/main/Days/Day241.md)|
