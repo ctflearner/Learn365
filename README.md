@@ -230,4 +230,5 @@ Welcome to Learn365! This repository is about 365 days of Learning . This reposi
 |31-08-23|239|[SSRF Blind in the image upload module via url in instantsoft/icms2](https://github.com/ctflearner/Learn365/blob/main/Days/Day239.md)|
 |01-09-23|240|[How I found a No Rate Limit bug](https://github.com/ctflearner/Learn365/blob/main/Days/Day240.md)|
 |02-09-23|241|[There is no rate limit for SME REGISTRATION PORTAL](https://github.com/ctflearner/Learn365/blob/main/Days/Day241.md)|
-|03-09-23|242|[Account TakeOver Due to Improper Handling of JWT Tokens in usememos/memos](https://github.com/ctflearner/Learn365/blob/main/Days/Day242.md)|
+|03-09-23|242|[Account TakeOver Due to Improper Handling of JWT Tokens in usememos/memos](https://github.com/ctflearner/Learn365/blob/main/Days/Day242.md)| 
+|04-09-23|243|[privilege escalation : Low access user can view Admin PRIVATE POST by using PIN functionality in usememos/memos](https://github.com/ctflearner/Learn365/blob/main/Days/Day243.md)|
