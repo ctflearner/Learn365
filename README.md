@@ -236,3 +236,4 @@ Welcome to Learn365! This repository is about 365 days of Learning . This reposi
 |06-09-23|245|[XSS at file uploading in instantsoft/icms2](https://github.com/ctflearner/Learn365/blob/main/Days/Day245.md)|
 |07-09-23|246|[IDOR Vulnerability Allow Low-Level User change role Everyone Includes Admin in answerdev/answer](https://github.com/ctflearner/Learn365/blob/main/Days/Day246.md)|
 |08-09-23|247|[Leaked Database and SMTP credentials through .env file](https://github.com/ctflearner/Learn365/blob/main/Days/Day247.md)|
+|09-09-23|248|[How I got RXSS from Shodan](https://github.com/ctflearner/Learn365/blob/main/Days/Day248.md)|
