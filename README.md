@@ -238,3 +238,4 @@ Welcome to Learn365! This repository is about 365 days of Learning . This reposi
 |08-09-23|247|[Leaked Database and SMTP credentials through .env file](https://github.com/ctflearner/Learn365/blob/main/Days/Day247.md)|
 |09-09-23|248|[How I got RXSS from Shodan](https://github.com/ctflearner/Learn365/blob/main/Days/Day248.md)|
 |10-09-23|249|[How I placed into Apple Hall of Fame in 5 Minutes](https://github.com/ctflearner/Learn365/blob/main/Days/Day249.md)|
+|11-09-23|250|[Improver Validation of File Name Causes RCE in tenpi/music-player](https://github.com/ctflearner/Learn365/blob/main/Days/Day250.md)|
