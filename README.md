@@ -242,3 +242,4 @@ Welcome to Learn365! This repository is about 365 days of Learning . This reposi
 |12-09-23|251|[SQL injection and Authentication bypass in mintplex-labs/anything-llm](https://github.com/ctflearner/Learn365/blob/main/Days/Day251.md)|
 |13-09-23|252|[Account Takeover at https://trello.com](https://github.com/ctflearner/Learn365/blob/main/Days/Day252.md)|
 |14-09-23|253|[SQL Injection Vulnerability in Content Page in instantsoft/icms2](https://github.com/ctflearner/Learn365/blob/main/Days/Days253.md)|
+|15-09-23|254|[HTML Injection in librenms/librenms](https://github.com/ctflearner/Learn365/blob/main/Days/Day254.md)|
