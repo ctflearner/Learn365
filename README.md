@@ -243,4 +243,5 @@ Welcome to Learn365! This repository is about 365 days of Learning . This reposi
 |13-09-23|252|[Account Takeover at https://trello.com](https://github.com/ctflearner/Learn365/blob/main/Days/Day252.md)|
 |14-09-23|253|[SQL Injection Vulnerability in Content Page in instantsoft/icms2](https://github.com/ctflearner/Learn365/blob/main/Days/Days253.md)|
 |15-09-23|254|[HTML Injection in librenms/librenms](https://github.com/ctflearner/Learn365/blob/main/Days/Day254.md)|
-|16-09-23|255|[Exploiting Broken Access Control Vulnerability](https://medium.com/@hellother18/exploiting-broken-access-control-vulnerability-for-bounty-1fb5d0994389)
+|16-09-23|255|[Exploiting Broken Access Control Vulnerability](https://medium.com/@hellother18/exploiting-broken-access-control-vulnerability-for-bounty-1fb5d0994389)|
+|17-09-23|256|[22.6k+ GitHub Stars Note-Taking App Hit by Critical XSS Vulnerability](https://github.com/ctflearner/Learn365/blob/main/Days/Day256.md)|
