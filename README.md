@@ -247,3 +247,4 @@ Welcome to Learn365! This repository is about 365 days of Learning . This reposi
 |17-09-23|256|[22.6k+ GitHub Stars Note-Taking App Hit by Critical XSS Vulnerability](https://github.com/ctflearner/Learn365/blob/main/Days/Day256.md)|
 |18-09-23|257|[XSS/CSRF in GetImage Endpoint in usememos/memos](https://github.com/ctflearner/Learn365/blob/main/Days/Day257.md)|
 |19-09-23|258|[How I Got 4 SQLI Vulnerabilities At One Target Manually Using The Repeater Tab](https://github.com/ctflearner/Learn365/blob/main/Days/Day258.md)|
+|20-09-23|259|[Multiple Self-XSS Vulnerabilites in hestiacp/hestiacp](https://github.com/ctflearner/Learn365/blob/main/Days/Day259.md)|
