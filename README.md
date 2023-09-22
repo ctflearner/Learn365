@@ -249,3 +249,4 @@ Welcome to Learn365! This repository is about 365 days of Learning . This reposi
 |19-09-23|258|[How I Got 4 SQLI Vulnerabilities At One Target Manually Using The Repeater Tab](https://github.com/ctflearner/Learn365/blob/main/Days/Day258.md)|
 |20-09-23|259|[Multiple Self-XSS Vulnerabilites in hestiacp/hestiacp](https://github.com/ctflearner/Learn365/blob/main/Days/Day259.md)|
 |21-09-23|260|[Application allows large characters to insert in the input field "Add new table"... in nocodb/nocodb](https://github.com/ctflearner/Learn365/blob/main/Days/Day260.md)|
+|22-09-23|261|[XML injection vulnerability: Examples, cheatsheet and prevention](https://github.com/ctflearner/Learn365/blob/main/Days/Day261.md)|
