@@ -251,3 +251,4 @@ Welcome to Learn365! This repository is about 365 days of Learning . This reposi
 |21-09-23|260|[Application allows large characters to insert in the input field "Add new table"... in nocodb/nocodb](https://github.com/ctflearner/Learn365/blob/main/Days/Day260.md)|
 |22-09-23|261|[XML injection vulnerability: Examples, cheatsheet and prevention](https://github.com/ctflearner/Learn365/blob/main/Days/Day261.md)|
 |23-09-23|262|[How I Hacked the Exam Portals of 1000+ Indian Institutions Including LPU, IIT Bombay, IIT Kanpur, VIT, SRM, UPES, GITAM, GNA University, and More, Impacting Over 1 Million Students and 65,000+ Teachers.](https://github.com/ctflearner/Learn365/blob/main/Days/Day262.md)|
+|24-09-23|263|[No rate limit lead to otp brute forcing](https://github.com/ctflearner/Learn365/blob/main/Days/Day263.md)|
