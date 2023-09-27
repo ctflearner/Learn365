@@ -254,3 +254,4 @@ Welcome to Learn365! This repository is about 365 days of Learning . This reposi
 |24-09-23|263|[No rate limit lead to otp brute forcing](https://github.com/ctflearner/Learn365/blob/main/Days/Day263.md)|
 |25-09-23|264|[Stored XSS via user's Username in limesurvey/limesurvey](https://github.com/ctflearner/Learn365/blob/main/Days/Day264.md)|
 |26-09-23|265|[How I Mass hunt for Admin Panel Access…](https://github.com/ctflearner/Learn365/blob/main/Days/Day265.md)|
+|27-09-23|266|[Stored XSS in description of theme in limesurvey/limesurvey](https://github.com/ctflearner/Learn365/blob/main/Days/Day266.md)|
