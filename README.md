@@ -257,3 +257,4 @@ Welcome to Learn365! This repository is about 365 days of Learning . This reposi
 |27-09-23|266|[Stored XSS in description of theme in limesurvey/limesurvey](https://github.com/ctflearner/Learn365/blob/main/Days/Day266.md)|
 |28-09-23|267|[Basics of API Security – Part 1](https://github.com/ctflearner/Learn365/blob/main/Days/Day267.md)|
 |29-09-23|268|[No rate limiting on creating access token in ikus060/rdiffweb](https://github.com/ctflearner/Learn365/blob/main/Days/Day268.md)|
+|30-09-23|269|[Secret information exfiltration by hard coding twitter API keys in microweber/microweber](https://github.com/ctflearner/Learn365/blob/main/Days/Day269.md)|
