@@ -260,3 +260,4 @@ Welcome to Learn365! This repository is about 365 days of Learning . This reposi
 |30-09-23|269|[Secret information exfiltration by hard coding twitter API keys in microweber/microweber](https://github.com/ctflearner/Learn365/blob/main/Days/Day269.md)|
 |01-10-23|270|[Store DOM XSS in Edit configuration in thorsten/phpmyfaq](https://github.com/ctflearner/Learn365/blob/main/Days/Day270.md)|
 |02-10-23|271|[Stored XSS at LOGO+USER menu in instantsoft/icms2](https://github.com/ctflearner/Learn365/blob/main/Days/Day271.md)|
+|03-10-23|272|[Insufficient access control in the export functionality for the 'Groups' module exposing user password hashes in salesagility/suitecrm](https://github.com/ctflearner/Learn365/blob/main/Days/Day272.md)|
