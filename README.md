@@ -263,3 +263,4 @@ Welcome to Learn365! This repository is about 365 days of Learning . This reposi
 |03-10-23|272|[Insufficient access control in the export functionality for the 'Groups' module exposing user password hashes in salesagility/suitecrm](https://github.com/ctflearner/Learn365/blob/main/Days/Day272.md)|
 |04-10-23|273|[Stored XSS in the Cases functionality in salesagility/suitecrm](https://github.com/ctflearner/Learn365/blob/main/Days/Day273.md)|
 |05-10-23|274|[Open Redirect in mosparo/mosparo](https://github.com/ctflearner/Learn365/blob/main/Days/Day274.md)|
+|06-10-23|275|[XSS Steal Cookies](https://github.com/ctflearner/Learn365/blob/main/Days/Day275.md)|
