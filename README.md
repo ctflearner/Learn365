@@ -264,3 +264,4 @@ Welcome to Learn365! This repository is about 365 days of Learning . This reposi
 |04-10-23|273|[Stored XSS in the Cases functionality in salesagility/suitecrm](https://github.com/ctflearner/Learn365/blob/main/Days/Day273.md)|
 |05-10-23|274|[Open Redirect in mosparo/mosparo](https://github.com/ctflearner/Learn365/blob/main/Days/Day274.md)|
 |06-10-23|275|[XSS Steal Cookies](https://github.com/ctflearner/Learn365/blob/main/Days/Day275.md)|
+|07-10-23|276|[Stored Cross Site Scripting (XSS) in snipe/snipe-it](https://github.com/ctflearner/Learn365/blob/main/Days/Day276.md)|
