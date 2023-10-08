@@ -265,3 +265,4 @@ Welcome to Learn365! This repository is about 365 days of Learning . This reposi
 |05-10-23|274|[Open Redirect in mosparo/mosparo](https://github.com/ctflearner/Learn365/blob/main/Days/Day274.md)|
 |06-10-23|275|[XSS Steal Cookies](https://github.com/ctflearner/Learn365/blob/main/Days/Day275.md)|
 |07-10-23|276|[Stored Cross Site Scripting (XSS) in snipe/snipe-it](https://github.com/ctflearner/Learn365/blob/main/Days/Day276.md)|
+|08-10-23|277|[RXSS in onpremises version of structurizr in structurizr/onpremises](https://github.com/ctflearner/Learn365/blob/main/Days/Day277.md)|
