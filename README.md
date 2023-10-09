@@ -266,3 +266,4 @@ Welcome to Learn365! This repository is about 365 days of Learning . This reposi
 |06-10-23|275|[XSS Steal Cookies](https://github.com/ctflearner/Learn365/blob/main/Days/Day275.md)|
 |07-10-23|276|[Stored Cross Site Scripting (XSS) in snipe/snipe-it](https://github.com/ctflearner/Learn365/blob/main/Days/Day276.md)|
 |08-10-23|277|[RXSS in onpremises version of structurizr in structurizr/onpremises](https://github.com/ctflearner/Learn365/blob/main/Days/Day277.md)|
+|09-10-23|278|[Account takeover via leaked session cookie](https://github.com/ctflearner/Learn365/blob/main/Days/Day278.md)|
