@@ -269,3 +269,4 @@ Welcome to Learn365! This repository is about 365 days of Learning . This reposi
 |09-10-23|278|[Account takeover via leaked session cookie](https://github.com/ctflearner/Learn365/blob/main/Days/Day278.md)|
 |10-10-23|279|[Incorrect Authorization in User role in limesurvey/limesurvey](https://github.com/ctflearner/Learn365/blob/main/Days/Day279.md)|
 |11-10-23|280|[CSRF in Send Reminder in snipe/snipe-it](https://github.com/ctflearner/Learn365/blob/main/Days/Day280.md)|
+|12-10-23|281|[Account takeover due to misconfiguration](https://github.com/ctflearner/Learn365/blob/main/Days/Day281.md)|
