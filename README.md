@@ -270,3 +270,4 @@ Welcome to Learn365! This repository is about 365 days of Learning . This reposi
 |10-10-23|279|[Incorrect Authorization in User role in limesurvey/limesurvey](https://github.com/ctflearner/Learn365/blob/main/Days/Day279.md)|
 |11-10-23|280|[CSRF in Send Reminder in snipe/snipe-it](https://github.com/ctflearner/Learn365/blob/main/Days/Day280.md)|
 |12-10-23|281|[Account takeover due to misconfiguration](https://github.com/ctflearner/Learn365/blob/main/Days/Day281.md)|
+|13-10-23|282|[HTML injection Leads to Open redirection in froxlor/froxlor](https://github.com/ctflearner/Learn365/blob/main/Days/Day282.md)|
