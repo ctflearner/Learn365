@@ -276,3 +276,4 @@ Welcome to Learn365! This repository is about 365 days of Learning . This reposi
 |16-10-23|285|[Time-Based Blind SQL injection leads to database extraction in librenms/librenms](https://github.com/ctflearner/Learn365/blob/main/Days/Day285.md)|
 |17-10-23|286|[Don't Trust the Host Header for Sending Password Reset Emails](https://github.com/ctflearner/Learn365/blob/main/Days/Day286.md)|
 |18-10-23|287|[CSRF in Payment Types in pkp/ojs](https://github.com/ctflearner/Learn365/blob/main/Days/Day287.md)|
+|19-10-23|288|[Android Pentesting 101: A Novice’s Handbook to Getting Started](https://github.com/ctflearner/Learn365/blob/main/Days/Day288.md)|
