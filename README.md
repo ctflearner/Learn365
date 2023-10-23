@@ -280,3 +280,4 @@ Welcome to Learn365! This repository is about 365 days of Learning . This reposi
 |20-10-23|289|[leaked all users names from a user without known permissions in wagtail/wagtail](https://github.com/ctflearner/Learn365/blob/main/Days/Day289.md)|
 |21-10-23|290|[DOM Cross Side Scripting in modoboa/modoboa](https://github.com/ctflearner/Learn365/blob/main/Days/Day290.md)|
 |22-10-23|291|[How I saved 2.8 Million PII of Indian citizens from hackers.](https://github.com/ctflearner/Learn365/blob/main/Days/Day291.md)|
+|23-10-23|292|[Cross-site Scripting (XSS) - Stored in janeczku/calibre-web](https://github.com/ctflearner/Learn365/blob/main/Days/Day292.md)|
