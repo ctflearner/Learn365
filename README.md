@@ -282,3 +282,4 @@ Welcome to Learn365! This repository is about 365 days of Learning . This reposi
 |22-10-23|291|[How I saved 2.8 Million PII of Indian citizens from hackers.](https://github.com/ctflearner/Learn365/blob/main/Days/Day291.md)|
 |23-10-23|292|[Cross-site Scripting (XSS) - Stored in janeczku/calibre-web](https://github.com/ctflearner/Learn365/blob/main/Days/Day292.md)|
 |24-10-23|293|[Cross-site scripting (XSS) stored in href bypasses filter using data wrapper in janeczku/calibre-web](https://github.com/ctflearner/Learn365/blob/main/Days/Day293.md)|
+|25-10-23|294|[Blind Sql Injection in https://█████/qsSearch.aspx](https://github.com/ctflearner/Learn365/blob/main/Days/Day294.md)|
