@@ -284,3 +284,4 @@ Welcome to Learn365! This repository is about 365 days of Learning . This reposi
 |24-10-23|293|[Cross-site scripting (XSS) stored in href bypasses filter using data wrapper in janeczku/calibre-web](https://github.com/ctflearner/Learn365/blob/main/Days/Day293.md)|
 |25-10-23|294|[Blind Sql Injection in https://█████/qsSearch.aspx](https://github.com/ctflearner/Learn365/blob/main/Days/Day294.md)|
 |26-10-23|295|[An agent without permission has the ability to update, add, or delete FAQ items in osticket/osticket](https://github.com/ctflearner/Learn365/blob/main/Days/Day295.md)|
+|27-10-23|296|[Time-base SQL Injection in Search Users](https://github.com/ctflearner/Learn365/blob/main/Days/Day296.md)|
