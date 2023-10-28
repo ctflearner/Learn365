@@ -285,3 +285,4 @@ Welcome to Learn365! This repository is about 365 days of Learning . This reposi
 |25-10-23|294|[Blind Sql Injection in https://█████/qsSearch.aspx](https://github.com/ctflearner/Learn365/blob/main/Days/Day294.md)|
 |26-10-23|295|[An agent without permission has the ability to update, add, or delete FAQ items in osticket/osticket](https://github.com/ctflearner/Learn365/blob/main/Days/Day295.md)|
 |27-10-23|296|[Time-base SQL Injection in Search Users](https://github.com/ctflearner/Learn365/blob/main/Days/Day296.md)|
+|28-10-23|297|[Improper input validation leads to arbitrary file deletion in mintplex-labs/anything-llm](https://github.com/ctflearner/Learn365/blob/main/Days/Day297.md)|
