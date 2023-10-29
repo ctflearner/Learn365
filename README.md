@@ -286,3 +286,4 @@ Welcome to Learn365! This repository is about 365 days of Learning . This reposi
 |26-10-23|295|[An agent without permission has the ability to update, add, or delete FAQ items in osticket/osticket](https://github.com/ctflearner/Learn365/blob/main/Days/Day295.md)|
 |27-10-23|296|[Time-base SQL Injection in Search Users](https://github.com/ctflearner/Learn365/blob/main/Days/Day296.md)|
 |28-10-23|297|[Improper input validation leads to arbitrary file deletion in mintplex-labs/anything-llm](https://github.com/ctflearner/Learn365/blob/main/Days/Day297.md)|
+|29-10-23|298|[Password Reset link hijacking via Host Header Poisoning in linkstackorg/linkstack](https://github.com/ctflearner/Learn365/blob/main/Days/Day298.md)|
