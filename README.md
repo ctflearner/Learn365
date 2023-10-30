@@ -287,3 +287,4 @@ Welcome to Learn365! This repository is about 365 days of Learning . This reposi
 |27-10-23|296|[Time-base SQL Injection in Search Users](https://github.com/ctflearner/Learn365/blob/main/Days/Day296.md)|
 |28-10-23|297|[Improper input validation leads to arbitrary file deletion in mintplex-labs/anything-llm](https://github.com/ctflearner/Learn365/blob/main/Days/Day297.md)|
 |29-10-23|298|[Password Reset link hijacking via Host Header Poisoning in linkstackorg/linkstack](https://github.com/ctflearner/Learn365/blob/main/Days/Day298.md)|
+|30-10-23|299|[IDOR - Users can change Administrator information (User ID = 1 ) in limesurvey/limesurvey](https://github.com/ctflearner/Learn365/blob/main/Days/Day299.md)|
