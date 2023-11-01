@@ -289,3 +289,4 @@ Welcome to Learn365! This repository is about 365 days of Learning . This reposi
 |29-10-23|298|[Password Reset link hijacking via Host Header Poisoning in linkstackorg/linkstack](https://github.com/ctflearner/Learn365/blob/main/Days/Day298.md)|
 |30-10-23|299|[IDOR - Users can change Administrator information (User ID = 1 ) in limesurvey/limesurvey](https://github.com/ctflearner/Learn365/blob/main/Days/Day299.md)|
 |31-10-23|300|[Store DOM XSS in FAQ in thorsten/phpmyfaq](https://github.com/ctflearner/Learn365/blob/main/Days/Day300.md)|
+|01-11-23|301|[Stored XSS in module named "New Submissions" in pkp/pkp-lib](https://github.com/ctflearner/Learn365/blob/main/Days/Day301.md)|
