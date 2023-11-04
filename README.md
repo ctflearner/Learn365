@@ -292,3 +292,4 @@ Welcome to Learn365! This repository is about 365 days of Learning . This reposi
 |01-11-23|301|[Stored XSS in module named "New Submissions" in pkp/pkp-lib](https://github.com/ctflearner/Learn365/blob/main/Days/Day301.md)|
 |02-11-23|302|[Improper Access Control That Leads to Privilege Escalation / Account Takeover in glpi-project/glpi](https://github.com/ctflearner/Learn365/blob/main/Days/Day302.md)|
 |03-11-23|303|[Theft of Arbitrary Files from non-exported FileProvider via improper implementation of setResult in WelcomeScreen.kt in teamamaze/amazefileutilities](https://github.com/ctflearner/Learn365/blob/main/Days/Day303.md)|
+|04-11-23|304|[$7000 Bounty on a Single Web Application](https://github.com/ctflearner/Learn365/blob/main/Days/Day304.md)|
