@@ -295,3 +295,4 @@ Welcome to Learn365! This repository is about 365 days of Learning . This reposi
 |04-11-23|304|[$7000 Bounty on a Single Web Application](https://github.com/ctflearner/Learn365/blob/main/Days/Day304.md)|
 |05-11-23|305|[CSRF Delete Navigation Menu Items in pkp/pkp-lib](https://github.com/ctflearner/Learn365/blob/main/Days/Day305.md)|
 |06-11-23|306|[SAML 2.0: A Brief Conceptual Overview](https://github.com/ctflearner/Learn365/blob/main/Days/Day306.md)|
+|07-11-23|307|[How I sent multiple payment requests on PhonePe, Paytm, and Google Pay ](https://github.com/ctflearner/Learn365/blob/main/Days/Day307.md)|
