@@ -300,3 +300,4 @@ Welcome to Learn365! This repository is about 365 days of Learning . This reposi
 |09-11-23|309|[User sends email to group member, while not having general user group permissions in limesurvey/limesurvey](https://github.com/ctflearner/Learn365/blob/main/Days/Day309.md)|
 |10-11-23|310|[How I got Access to a Company’s Auth0 Management API !!](https://github.com/ctflearner/Learn365/blob/main/Days/Day310.md)|
 |11-11-23|311|[CVE-2023-29489 XSS in cpanel at [www.███] - Securado, Oman](https://github.com/ctflearner/Learn365/blob/main/Days/Day311.md)|
+|12-11-23|312|[Disabled accounts still work normally in pkp/pkp-lib](https://github.com/ctflearner/Learn365/blob/main/Days/Day312.md)|
