@@ -302,3 +302,4 @@ Welcome to Learn365! This repository is about 365 days of Learning . This reposi
 |11-11-23|311|[CVE-2023-29489 XSS in cpanel at [www.███] - Securado, Oman](https://github.com/ctflearner/Learn365/blob/main/Days/Day311.md)|
 |12-11-23|312|[Disabled accounts still work normally in pkp/pkp-lib](https://github.com/ctflearner/Learn365/blob/main/Days/Day312.md)|
 |13-11-23|313|[How to Upgrade Your XSS Bugs from Medium to Critical](https://github.com/ctflearner/Learn365/blob/main/Days/Day313.md)|
+|14-11-23|314|[CVE-2023-27537: HSTS double-free](https://github.com/ctflearner/Learn365/blob/main/Days/Day314.md)|
