@@ -307,3 +307,4 @@ Welcome to Learn365! This repository is about 365 days of Learning . This reposi
 |16-11-23|316|[Reflected XSS via Upgrade Wizard in salesagility/suitecrm](https://github.com/ctflearner/Learn365/blob/main/Days/Day316.md)|
 |17-11-23|317|[LFI in Ray API in ray-project/ray](https://github.com/ctflearner/Learn365/blob/main/Days/Day317.md)|
 |18-11-23|318|[Relative path traversal in vertaai/modeldb](https://github.com/ctflearner/Learn365/blob/main/Days/Day318.md)|
+|19-11-23|319|[Breaking Barriers: Unmasking the Easy Password Validation Bypass in Security Key Registration | How a Dumb Frontend Led to 750 $ Bounty](https://github.com/ctflearner/Learn365/blob/main/Days/Day319.md)|
