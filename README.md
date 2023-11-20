@@ -308,3 +308,4 @@ Welcome to Learn365! This repository is about 365 days of Learning . This reposi
 |17-11-23|317|[LFI in Ray API in ray-project/ray](https://github.com/ctflearner/Learn365/blob/main/Days/Day317.md)|
 |18-11-23|318|[Relative path traversal in vertaai/modeldb](https://github.com/ctflearner/Learn365/blob/main/Days/Day318.md)|
 |19-11-23|319|[Breaking Barriers: Unmasking the Easy Password Validation Bypass in Security Key Registration How a Dumb Frontend Led to 750 $ Bounty](https://github.com/ctflearner/Learn365/blob/main/Days/Day319.md)|
+|20-11-23|320|[Unauthorized Access and Content Modification in h20-r S3 Bucket which is used in .sh and docker file leads to spread of malicious R package which can lead to remote code execution in h2oai/h2o-3](https://github.com/ctflearner/Learn365/blob/main/Days/Day320.md)|
