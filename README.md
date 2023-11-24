@@ -312,3 +312,4 @@ Welcome to Learn365! This repository is about 365 days of Learning . This reposi
 |21-11-23|321|[Bug Bounty Target Deep Dive](https://github.com/ctflearner/Learn365/blob/main/Days/Day321.md)|
 |22-11-23|322|[Can use csrf to steal/modify block content, artifact content, variables possibly leading to RCE when the dashboard is running on a developers workstation in prefecthq/prefect](https://github.com/ctflearner/Learn365/blob/main/Days/Day322.md)|
 |23-11-23|323|[Code injection in cpu_profile format parameter in ray-project/ray](https://github.com/ctflearner/Learn365/blob/main/Days/Day323.md)|
+|24-11-23|324|[Pentesting Linux Thick Client Applications ](https://github.com/ctflearner/Learn365/blob/main/Days/Day324.md)|
