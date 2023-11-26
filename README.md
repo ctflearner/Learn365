@@ -314,3 +314,4 @@ Welcome to Learn365! This repository is about 365 days of Learning . This reposi
 |23-11-23|323|[Code injection in cpu_profile format parameter in ray-project/ray](https://github.com/ctflearner/Learn365/blob/main/Days/Day323.md)|
 |24-11-23|324|[Pentesting Linux Thick Client Applications ](https://github.com/ctflearner/Learn365/blob/main/Days/Day324.md)|
 |25-11-23|325|[CVE-2023-23914: HSTS ignored on multiple requests](https://github.com/ctflearner/Learn365/blob/main/Days/Day325.md)|
+|26-11-23|326|[Easy $500 Vulnerabilities! // How To Bug Bounty](https://github.com/ctflearner/Learn365/blob/main/Days/Day326.md)|
