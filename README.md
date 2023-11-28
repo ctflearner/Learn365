@@ -316,3 +316,4 @@ Welcome to Learn365! This repository is about 365 days of Learning . This reposi
 |25-11-23|325|[CVE-2023-23914: HSTS ignored on multiple requests](https://github.com/ctflearner/Learn365/blob/main/Days/Day325.md)|
 |26-11-23|326|[Easy $500 Vulnerabilities! // How To Bug Bounty](https://github.com/ctflearner/Learn365/blob/main/Days/Day326.md)|
 |27-11-23|327|[[Quora Android] Possible to steal arbitrary files from mobile device](https://github.com/ctflearner/Learn365/blob/main/Days/Day327.md)|
+|28-11-23|328|[Passcode Protection in Android Devices Can be Bypassed.](https://github.com/ctflearner/Learn365/blob/main/Days/Day328.md)|
