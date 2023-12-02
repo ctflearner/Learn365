@@ -320,3 +320,4 @@ Welcome to Learn365! This repository is about 365 days of Learning . This reposi
 |29-11-23|329|[Reverse Engineering APK an Android app](https://github.com/ctflearner/Learn365/blob/main/Days/Day329.md)|
 |30-11-23|330|[2 click Remote Code execution in Evernote Android](https://github.com/ctflearner/Learn365/blob/main/Days/Day330.md)|
 |01-12-23|331|[Vulnerabilities in exported activity WebView](https://github.com/ctflearner/Learn365/blob/main/Days/Day331.md)|
+|02-12-23|332|[Cross Site Scripting (XSS) in Layers of Image in viliusle/minipaint](https://github.com/ctflearner/Learn365/blob/main/Days/Day332.md)|
