@@ -321,3 +321,4 @@ Welcome to Learn365! This repository is about 365 days of Learning . This reposi
 |30-11-23|330|[2 click Remote Code execution in Evernote Android](https://github.com/ctflearner/Learn365/blob/main/Days/Day330.md)|
 |01-12-23|331|[Vulnerabilities in exported activity WebView](https://github.com/ctflearner/Learn365/blob/main/Days/Day331.md)|
 |02-12-23|332|[Cross Site Scripting (XSS) in Layers of Image in viliusle/minipaint](https://github.com/ctflearner/Learn365/blob/main/Days/Day332.md)|
+|03-12-23|333|[Android App Bug Bounty Secrets](https://github.com/ctflearner/Learn365/blob/main/Days/Day333.md)|
