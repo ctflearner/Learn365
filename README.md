@@ -325,3 +325,4 @@ Welcome to Learn365! This repository is about 365 days of Learning . This reposi
 |04-12-23|334|[[Grab Android/iOS Insecure deeplink leads to sensitive information disclosure](https://github.com/ctflearner/Learn365/blob/main/Days/Day334.md)|
 |05-12-23|335|[CVE-2020-8913](https://github.com/ctflearner/Learn365/blob/main/Days/Day335.md)|
 |06-12-23|336|[PDF Upload Leading to Stored XSS](https://github.com/ctflearner/Learn365/blob/main/Days/Day336.md)|
+|07-12-23|337|[DoS via Password Strength Checker Function](https://github.com/ctflearner/Learn365/blob/main/Days/Day337.md)|
