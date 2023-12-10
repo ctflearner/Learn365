@@ -328,3 +328,4 @@ Welcome to Learn365! This repository is about 365 days of Learning . This reposi
 |07-12-23|337|[DoS via Password Strength Checker Function](https://github.com/ctflearner/Learn365/blob/main/Days/Day337.md)|
 |08-12-23|338|[Identity Aware Proxy for Securing GCP Applications: Part-01](https://github.com/ctflearner/Learn365/blob/main/Days/Day338.md)|
 |09-12-23|339|[Javascript Analysis to SQL injection](https://github.com/ctflearner/Learn365/blob/main/Days/Day339.md)|
+|10-12-23|340|[New payload to exploit Error-based SQL injection - Oracle database](https://github.com/ctflearner/Learn365/blob/main/Days/Day340.md)|
