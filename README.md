@@ -330,3 +330,4 @@ Welcome to Learn365! This repository is about 365 days of Learning . This reposi
 |09-12-23|339|[Javascript Analysis to SQL injection](https://github.com/ctflearner/Learn365/blob/main/Days/Day339.md)|
 |10-12-23|340|[New payload to exploit Error-based SQL injection - Oracle database](https://github.com/ctflearner/Learn365/blob/main/Days/Day340.md)|
 |11-12-23|341|[Initial access](https://github.com/ctflearner/Learn365/blob/main/Days/Day341.md)|
+|12-12-23|342|[Leaking error content at upload file in microweber/microweber](https://github.com/ctflearner/Learn365/blob/main/Days/Day342.md)|
