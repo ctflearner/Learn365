@@ -331,3 +331,4 @@ Welcome to Learn365! This repository is about 365 days of Learning . This reposi
 |10-12-23|340|[New payload to exploit Error-based SQL injection - Oracle database](https://github.com/ctflearner/Learn365/blob/main/Days/Day340.md)|
 |11-12-23|341|[Initial access](https://github.com/ctflearner/Learn365/blob/main/Days/Day341.md)|
 |12-12-23|342|[Leaking error content at upload file in microweber/microweber](https://github.com/ctflearner/Learn365/blob/main/Days/Day342.md)|
+|13-12-23|343|[631-burpsuite-101-going-deep-into-intruder](https://github.com/ctflearner/Learn365/blob/main/Days/Day343.md)|
