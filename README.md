@@ -333,3 +333,4 @@ Welcome to Learn365! This repository is about 365 days of Learning . This reposi
 |12-12-23|342|[Leaking error content at upload file in microweber/microweber](https://github.com/ctflearner/Learn365/blob/main/Days/Day342.md)|
 |13-12-23|343|[631-burpsuite-101-going-deep-into-intruder](https://github.com/ctflearner/Learn365/blob/main/Days/Day343.md)|
 |14-12-23|344|[Understanding Directory Traversal Vulnerabilities](https://github.com/ctflearner/Learn365/blob/main/Days/Day344.md)|
+|15-12-23|345|[unveiling-mobile-app-security-a-comprehensive-guide](https://github.com/ctflearner/Learn365/blob/main/Days/Day345.md)|
