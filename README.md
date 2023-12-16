@@ -334,3 +334,4 @@ Welcome to Learn365! This repository is about 365 days of Learning . This reposi
 |13-12-23|343|[631-burpsuite-101-going-deep-into-intruder](https://github.com/ctflearner/Learn365/blob/main/Days/Day343.md)|
 |14-12-23|344|[Understanding Directory Traversal Vulnerabilities](https://github.com/ctflearner/Learn365/blob/main/Days/Day344.md)|
 |15-12-23|345|[unveiling-mobile-app-security-a-comprehensive-guide](https://github.com/ctflearner/Learn365/blob/main/Days/Day345.md)|
+|16-12-23|346|[how-i-found-130-sub-domain-takeover-vulnerabilities-using-nuclei](https://github.com/ctflearner/Learn365/blob/main/Days/Day346.md)|
