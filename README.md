@@ -335,3 +335,4 @@ Welcome to Learn365! This repository is about 365 days of Learning . This reposi
 |14-12-23|344|[Understanding Directory Traversal Vulnerabilities](https://github.com/ctflearner/Learn365/blob/main/Days/Day344.md)|
 |15-12-23|345|[unveiling-mobile-app-security-a-comprehensive-guide](https://github.com/ctflearner/Learn365/blob/main/Days/Day345.md)|
 |16-12-23|346|[how-i-found-130-sub-domain-takeover-vulnerabilities-using-nuclei](https://github.com/ctflearner/Learn365/blob/main/Days/Day346.md)|
+|17-12-23|347|[Updated Beginners Guide to API Bug Bounty](https://github.com/ctflearner/Learn365/blob/main/Days/Day347.md)|
