@@ -340,3 +340,4 @@ Welcome to Learn365! This repository is about 365 days of Learning . This reposi
 |19-12-23|349|[Recon in Cybersecurity #12 - Digging into The Past with WaybackMachine](https://github.com/ctflearner/Learn365/blob/main/Days/Day349.md)|
 |20-12-23|350|[PostgreSQL SELECT only RCE](https://github.com/ctflearner/Learn365/blob/main/Days/Day350.md)|
 |21-12-23|351|[how-can-i-account-take-over-any-account](https://github.com/ctflearner/Learn365/blob/main/Days/Day351.md)|
+|22-12-23|352|[understanding-edr-vs-xdr-differences-and-the-future-outlook](https://github.com/ctflearner/Learn365/blob/main/Days/Day352.md)|
