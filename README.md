@@ -344,3 +344,4 @@ Welcome to Learn365! This repository is about 365 days of Learning . This reposi
 |23-12-23|353|[Hacking with The Internet Time Machine](https://github.com/ctflearner/Learn365/blob/main/Days/Day353.md)|
 |24-12-23|354|[The ART of Chaining Vulnerabilities](https://github.com/ctflearner/Learn365/blob/main/Days/Day354.md)|
 |25-12-23|355|[How a simple Directory Listing leads to PII Data Leakage, Remote Code Execution and many more vulnerabilities on a HR management subdomain](https://github.com/ctflearner/Learn365/blob/main/Days/Day355.md)|
+|26-12-23|356|[From Django Debug Mode to PII Data Leak of more than 500+ Employees due Broken Access Control and IDOR](https://github.com/ctflearner/Learn365/blob/main/Days/Day356.md)|
