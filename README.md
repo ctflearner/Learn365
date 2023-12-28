@@ -346,3 +346,4 @@ Welcome to Learn365! This repository is about 365 days of Learning . This reposi
 |25-12-23|355|[How a simple Directory Listing leads to PII Data Leakage, Remote Code Execution and many more vulnerabilities on a HR management subdomain](https://github.com/ctflearner/Learn365/blob/main/Days/Day355.md)|
 |26-12-23|356|[From Django Debug Mode to PII Data Leak of more than 500+ Employees due Broken Access Control and IDOR](https://github.com/ctflearner/Learn365/blob/main/Days/Day356.md)|
 |27-12-23|357|[How to Bypass Device Verification for Email & Login Forms? — no cookies required!](https://github.com/ctflearner/Learn365/blob/main/Days/Day357.md)|
+|28-12-23|358|[Recon in Cybersecurity #13 - A Primer on Reporting - Don't Sabotage Yourself](https://github.com/ctflearner/Learn365/blob/main/Days/Day358.md)|
