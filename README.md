@@ -347,3 +347,4 @@ Welcome to Learn365! This repository is about 365 days of Learning . This reposi
 |26-12-23|356|[From Django Debug Mode to PII Data Leak of more than 500+ Employees due Broken Access Control and IDOR](https://github.com/ctflearner/Learn365/blob/main/Days/Day356.md)|
 |27-12-23|357|[How to Bypass Device Verification for Email & Login Forms? — no cookies required!](https://github.com/ctflearner/Learn365/blob/main/Days/Day357.md)|
 |28-12-23|358|[Recon in Cybersecurity #13 - A Primer on Reporting - Don't Sabotage Yourself](https://github.com/ctflearner/Learn365/blob/main/Days/Day358.md)|
+|29-12-23|359|[Store XSS in Notifications Menu in instantsoft/icms2](https://github.com/ctflearner/Learn365/blob/main/Days/Day359.md)|
