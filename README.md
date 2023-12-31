@@ -349,3 +349,4 @@ Welcome to Learn365! This repository is about 365 days of Learning . This reposi
 |28-12-23|358|[Recon in Cybersecurity #13 - A Primer on Reporting - Don't Sabotage Yourself](https://github.com/ctflearner/Learn365/blob/main/Days/Day358.md)|
 |29-12-23|359|[Store XSS in Notifications Menu in instantsoft/icms2](https://github.com/ctflearner/Learn365/blob/main/Days/Day359.md)|
 |30-12-23|360|[AWS S3 Enumeration Basics](https://github.com/ctflearner/Learn365/blob/main/Days/Day360.md)|
+|31-12-23|361|[DoS via abusing the Upload Function](https://github.com/ctflearner/Learn365/blob/main/Days/Day361.md)|
